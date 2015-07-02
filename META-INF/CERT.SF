@@ -1,0 +1,3350 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: tpBJah3kPIIKevUJzQbyaYwBSJc=
+
+Name: data/preload/mattingshotandpaste_stickers_19.png
+SHA1-Digest-Manifest: GFr/OVdWJqUoAqe05ChgJY4g+4Y=
+
+Name: patch/system/lib/libgui.so.p
+SHA1-Digest-Manifest: AlbioE6WSeBnrQUoiEHJTLXk5ug=
+
+Name: patch/system/lib/libhwui.so.p
+SHA1-Digest-Manifest: 7M3MQgoLP6qcFP/DsZ70nMBsAkI=
+
+Name: patch/system/priv-app/HtcLockScreen.odex.p
+SHA1-Digest-Manifest: Ukc7eJWp0nQiCTdQ6AXg+icWzII=
+
+Name: patch/system/app/HtcLogLevel.apk.p
+SHA1-Digest-Manifest: bmLWwHMJHMt6h5Yp49dxbCkkV3o=
+
+Name: patch/system/lib/libandroid_servers.so.p
+SHA1-Digest-Manifest: qU8UwpQwUu7HQPxWOYSbkg8Vwq4=
+
+Name: data/preload/weather_snow_day.mp4
+SHA1-Digest-Manifest: jn2b/AxxLCfaSLoorgZ4eK3tW1k=
+
+Name: patch/system/lib/libmmcamera_frameproc.so.p
+SHA1-Digest-Manifest: eXToCcOlWFWMz1xwD8iBmBNZDjo=
+
+Name: system/lib/libgnmc_fpx.3.3.3.15.so
+SHA1-Digest-Manifest: g9y6OtyBmVxyZMyr5RuXaDYoZPE=
+
+Name: patch/system/customize/MNS/27205.xml.p
+SHA1-Digest-Manifest: 0D9OttJ+uZwAViVaR1K5PbJH+SY=
+
+Name: data/preload/mattingshotandpaste_stickers_05.png
+SHA1-Digest-Manifest: I1JhnElT+N6PQZrEvFKcpqJIP+I=
+
+Name: patch/system/priv-app/HtcGpsWidget.apk.p
+SHA1-Digest-Manifest: XgyN7y9ag8Io6sN9J0+4DhZRk4g=
+
+Name: patch/system/app/Maps.apk.p
+SHA1-Digest-Manifest: dYSeI7WPaFRyCXqeeiXYb+obr44=
+
+Name: patch/system/app/HtcBackgroundDataWidget.odex.p
+SHA1-Digest-Manifest: E8g3OxOXUAwm7HX5mj4qKLmrnAc=
+
+Name: data/preload/mattingshotandpaste_stickers_24.png
+SHA1-Digest-Manifest: S6OMTP3MsGqSXK7O4xJHCbvJKOs=
+
+Name: patch/system/vendor/lib/egl/eglsubAndroid.so.p
+SHA1-Digest-Manifest: 05w00cjNsrmUaidalzEdBLvcnmg=
+
+Name: system/vendor/lib/lib-imscamera.so
+SHA1-Digest-Manifest: YGWjpXMJ4u5SoLOfiI84eEZeqZQ=
+
+Name: patch/system/etc/clatd.conf.p
+SHA1-Digest-Manifest: 8l56DbrvWrYVJvgfjIUHxBjO+Gk=
+
+Name: patch/system/lib/libhtccamera_yushaniiproc.so.p
+SHA1-Digest-Manifest: OsOXoWjfuPLkujxW9WY2mPR0jrk=
+
+Name: data/preload/weather_fog_day.mp4
+SHA1-Digest-Manifest: WVuhqJzh5WTNxQvB/ocq50Uq1e4=
+
+Name: patch/system/bin/exfatlabel.p
+SHA1-Digest-Manifest: tlB/j9qKHqp9UzVyBwW0/BbMsHI=
+
+Name: patch/system/app/IMEXT9Bulgaria.odex.p
+SHA1-Digest-Manifest: AJh9oikCgVV2U6RGe7Ho0ZVhBxw=
+
+Name: patch/system/priv-app/HTC_CIR.odex.p
+SHA1-Digest-Manifest: ly9lF/EzvWCot4UTergVC0zIdLk=
+
+Name: patch/system/priv-app/PNSClient.odex.p
+SHA1-Digest-Manifest: TAhsjXMoiwVqP7FYrOBwdxIxKtU=
+
+Name: patch/system/bin/mediaserver.p
+SHA1-Digest-Manifest: PECcsBuUtieKHm3mbGwd1KEVAWA=
+
+Name: patch/system/framework/com.google.android.media.effects.jar.p
+SHA1-Digest-Manifest: Zs7uCf5SbRq13013GtxHpo+TrgM=
+
+Name: patch/system/priv-app/HtcContactsDNATransfer.apk.p
+SHA1-Digest-Manifest: XzKnvG3jAJszNRDHZxXQyfnTXOI=
+
+Name: patch/system/priv-app/SharedStorageBackup.odex.p
+SHA1-Digest-Manifest: iMp8QGv+CxAmsjq5nx/iN2Ueq4g=
+
+Name: patch/system/lib/libcameraface.so.p
+SHA1-Digest-Manifest: DLPhpO6ItjKagqMAQuVWykqFyHM=
+
+Name: patch/system/lib/libwilhelm.so.p
+SHA1-Digest-Manifest: zrReqlXjEj5cZLMaNQDxXU6dPjQ=
+
+Name: patch/system/lib/libmedia_jni.so.p
+SHA1-Digest-Manifest: 0aiDpRHhKkrUMjijpB4fhkAC4iU=
+
+Name: patch/system/app/IMEHWRPenPower.odex.p
+SHA1-Digest-Manifest: 3pxUXMU3ve92ywKag+kLFcMDsio=
+
+Name: patch/system/lib/libsmith.so.p
+SHA1-Digest-Manifest: yFHe4E9gJszDlbW4YgXVBV0GjB8=
+
+Name: system/etc/security/cacerts/21855f49.0
+SHA1-Digest-Manifest: tYgQAJczZv8LeZBesQpVOUmPths=
+
+Name: patch/system/lib/libHMSGallery_libCutAndPaste.so.p
+SHA1-Digest-Manifest: 0TXdvh04UcPjZNe1LRQ/iJXAEEs=
+
+Name: patch/system/vendor/lib/egl/libGLESv1_CM_adreno.so.p
+SHA1-Digest-Manifest: eWeEdb+eMR81t64Z16aD1pvKzWI=
+
+Name: patch/system/lib/libvideochat_jni.so.p
+SHA1-Digest-Manifest: p5KUyDv4/ARKM9C4wMv3iizqZqg=
+
+Name: patch/system/lib/libmmjpeg.so.p
+SHA1-Digest-Manifest: PC4ycHAsH2dHuxCU39qSaIQeXjM=
+
+Name: patch/system/priv-app/HtcSoundRecorder.apk.p
+SHA1-Digest-Manifest: OHQw0d7ux9p2E5refLaow4VxgvY=
+
+Name: patch/system/framework/webview/paks/hu.pak.p
+SHA1-Digest-Manifest: ougVi977/Q+nNOC0fyVOMRDx9rc=
+
+Name: patch/system/priv-app/HtcWeatherClockWidget.odex.p
+SHA1-Digest-Manifest: 6vY5QvY19DW1UyUpdmEHfqAw+MA=
+
+Name: patch/system/framework/webview/paks/ml.pak.p
+SHA1-Digest-Manifest: fNUjuC5iVRg1ettQ2Swr2xcTO+o=
+
+Name: patch/system/app/HtcCarGps.apk.p
+SHA1-Digest-Manifest: 4oVLQ/iqrBdPteNYnHRQNZKoE8c=
+
+Name: patch/system/priv-app/LinkedIn_Fsplugin.apk.p
+SHA1-Digest-Manifest: 3FaOVlHHC9ka6f97rPp50V56fb8=
+
+Name: patch/system/framework/com.htc.musicvismodule.odex.p
+SHA1-Digest-Manifest: h7CMaLITTiO1O/tGI6VfknPd2Qk=
+
+Name: patch/system/lib/modules/texfat.ko.p
+SHA1-Digest-Manifest: kDBcgwO2xvWvbeqaGPhlipU4WsE=
+
+Name: patch/system/customize/CID/HTC__102.xml.p
+SHA1-Digest-Manifest: gwAhjMaje+CdkB/k62OdwPAbaVc=
+
+Name: patch/system/lib/libHMSGallery_libSegBokeh.so.p
+SHA1-Digest-Manifest: ohDbQU4yq7cNikCObJBq/Kr2+1s=
+
+Name: patch/system/priv-app/MyTask.apk.p
+SHA1-Digest-Manifest: 77JqJbGZg09fVcSoj3W6ev8w5hA=
+
+Name: patch/system/framework/pm.odex.p
+SHA1-Digest-Manifest: voO2WlLpVsjUM57tZtwCGhFXIiY=
+
+Name: patch/system/app/HTCSetupWizard.odex.p
+SHA1-Digest-Manifest: g/1bNs6zkBY2JovLRAB8jsUfCvU=
+
+Name: patch/system/lib/libHMSGallery_libDepthmapJni.so.p
+SHA1-Digest-Manifest: TJQfMA4ufQZVKokcnhk/agHqat0=
+
+Name: patch/system/customize/MNS/232.xml.p
+SHA1-Digest-Manifest: 893ktihAIhqD2IepE8Qz6GTG7Kw=
+
+Name: patch/system/app/PureC_PackageInstaller.apk.p
+SHA1-Digest-Manifest: iovB23ib1qhTiQGpcS7G7d+C4Qk=
+
+Name: patch/system/framework/webview/paks/fil.pak.p
+SHA1-Digest-Manifest: 7Xy6B7yiMEMlyKbyaasWV6/WeCE=
+
+Name: data/preload/weather_cloudy_day.mp4
+SHA1-Digest-Manifest: 9hlhmnm+tPXMPEyPX1Jf/ANnrfQ=
+
+Name: patch/system/priv-app/TelephonyProvider.odex.p
+SHA1-Digest-Manifest: 1hOev7m1Tb4PZjgg/Ex9T7mOeBw=
+
+Name: data/preload/HTC__J15.xml
+SHA1-Digest-Manifest: 6JblH0PRVx243d4LpfV6ZcmtWwI=
+
+Name: patch/system/priv-app/SoundPicker.apk.p
+SHA1-Digest-Manifest: AZcS/qRtTjuJcVLGg9s6y0Le8TA=
+
+Name: system/lib/libebt_ulog.so
+SHA1-Digest-Manifest: 7VVG6n3kQPLpz15BMDIeSNLld6U=
+
+Name: patch/system/framework/webview/paks/webviewchromium.pak.p
+SHA1-Digest-Manifest: xpxj/sq5IBV82VSIHn/QmVNEQPA=
+
+Name: patch/system/priv-app/Frisbee.odex.p
+SHA1-Digest-Manifest: WqF4TSTWfoPTjh3W6EcSZlbkrAc=
+
+Name: patch/system/priv-app/Stock.odex.p
+SHA1-Digest-Manifest: Cuyd20XRCXQ3eDXCgdZTkmLv9rY=
+
+Name: system/etc/security/cacerts/1676090a.0
+SHA1-Digest-Manifest: EjWvQLXAevrU7ZPuJrHpXXYz43M=
+
+Name: patch/system/lib/libwebviewchromium.so.p
+SHA1-Digest-Manifest: JXv2Z51QLu5difC63A0mqi5NXfc=
+
+Name: patch/system/priv-app/Velvet.apk.p
+SHA1-Digest-Manifest: qIzwDz8CcdiB3Zg3Xwcnmd7aXfs=
+
+Name: patch/system/priv-app/PolarisOffice.apk.p
+SHA1-Digest-Manifest: UAqozFJid7fKlgUVEHB1HXiuO5k=
+
+Name: patch/system/framework/webview/paks/it.pak.p
+SHA1-Digest-Manifest: XkPxXpn5j0t+X2ynnemabrLl86k=
+
+Name: patch/system/priv-app/Weather.odex.p
+SHA1-Digest-Manifest: gXy51Nmiu6vlG9Iq0okxp5ewLZU=
+
+Name: patch/system/app/Font_Yuen.odex.p
+SHA1-Digest-Manifest: VHZaGI6EC2q7vylrGFfnnBuSrLM=
+
+Name: patch/system/app/IMEXT9Danish.odex.p
+SHA1-Digest-Manifest: ++HhrQ17N3kx0PCaFTZVMd3BxHc=
+
+Name: data/preload/weather_l_thunderstorm_night.mp4
+SHA1-Digest-Manifest: LYdUehwa3UhxUvL9DmAGrXKc/vc=
+
+Name: patch/system/app/DownloadProviderUi.odex.p
+SHA1-Digest-Manifest: AuFIXpUR2/7GkM7gDqiYDQzoAWE=
+
+Name: patch/system/app/SmartDim.odex.p
+SHA1-Digest-Manifest: U+euLpL7tIC8Uq4fJjtXweppuUM=
+
+Name: patch/system/lib/hw/gralloc.msm8960.so.p
+SHA1-Digest-Manifest: RcKQLlGVAe0rnmA4XTUzTPhujbs=
+
+Name: patch/system/bin/exfatinfo.p
+SHA1-Digest-Manifest: UqnFoEYsIGJX3F4r4bMpFt/CmYM=
+
+Name: patch/system/priv-app/DrawingBoard.odex.p
+SHA1-Digest-Manifest: ssuNpUtbXIhzZxFpC+6TBYQOw/U=
+
+Name: patch/system/app/Settings.odex.p
+SHA1-Digest-Manifest: NVzpgmmFSIs8+tg7J0BYuYsHMSk=
+
+Name: patch/system/app/DocumentsUI.apk.p
+SHA1-Digest-Manifest: JgpQmrRLBJ8yn7GplxQ9WeSZ1Bw=
+
+Name: system/framework/framework2.jar
+SHA1-Digest-Manifest: O7lmqG5r9HrkbKiP8R6lxB/dtWY=
+
+Name: patch/system/framework/webview/paks/es-419.pak.p
+SHA1-Digest-Manifest: yKEuOvbDUq++ZFR6FL8sd7rrusM=
+
+Name: patch/system/lib/libmoviemaker-jni.so.p
+SHA1-Digest-Manifest: 7Sg4EY0R9RkERtPf2B5OgPk+ZZY=
+
+Name: patch/system/customize/MNS/26801.xml.p
+SHA1-Digest-Manifest: 2Q2SpbsxH+HPgfMg6CdM5E2tl9o=
+
+Name: patch/system/vendor/lib/libC2D2.so.p
+SHA1-Digest-Manifest: q5PlaSFKOSCv6+VGS3g+ev8o5Fo=
+
+Name: data/preload/mattingshotandpaste_stickers_25.png
+SHA1-Digest-Manifest: gGVEjJBtvpJOMdOyMtvNI0V6g8c=
+
+Name: patch/system/app/Street.apk.p
+SHA1-Digest-Manifest: J6u2BPWSRRm6R82YpwVN+z1236c=
+
+Name: system/lib/libebt_standard.so
+SHA1-Digest-Manifest: M6y4bEgXDCCoec9OlmyUy5nZkh0=
+
+Name: patch/system/priv-app/Automotive_Traffic.apk.p
+SHA1-Digest-Manifest: XGIO4gCuqArpOaU4OqO6fqXPlws=
+
+Name: patch/system/lib/libstagefright_hdcp.so.p
+SHA1-Digest-Manifest: 6Pnf+xwBM0pednr10dmqkLrmvjw=
+
+Name: patch/system/priv-app/HtcServicePack.apk.p
+SHA1-Digest-Manifest: KkevrT30R44Ak+edzEpUJRUTjgw=
+
+Name: patch/system/priv-app/DemoFLOPackageInstaller.odex.p
+SHA1-Digest-Manifest: SBnCKTm5/RO5cbmiJOImMDqgZ1E=
+
+Name: patch/system/lib/libfb.so.p
+SHA1-Digest-Manifest: 67uwz+NFgiUwhnKYTuLHtd6hKRY=
+
+Name: system/framework/okhttp.jar
+SHA1-Digest-Manifest: xU7CjucyMNyGg9stHQg6HadXX+U=
+
+Name: patch/system/bin/htc_ebdlogd.p
+SHA1-Digest-Manifest: cPXSSPNoHkmm8i5MNP4b+KAyjtA=
+
+Name: system/lib/libebtable_filter.so
+SHA1-Digest-Manifest: NrMlFsfxjdDPfnebLRPtGph+oJo=
+
+Name: patch/system/app/IMEXT9Lithuanian.odex.p
+SHA1-Digest-Manifest: yUKJoOBjdvEq9bQGUFK9+KUMwU0=
+
+Name: patch/system/app/HtcAccessoryService.apk.p
+SHA1-Digest-Manifest: kGYAxrNaE/QjaJv945Qu/qC3Eyk=
+
+Name: patch/system/app/HtcBackupReset.apk.p
+SHA1-Digest-Manifest: VnymDPDK2rYLJrGXaFw/6PeR7T8=
+
+Name: patch/system/app/HtcBluetoothLeProfiles.odex.p
+SHA1-Digest-Manifest: 1Pwkei8jB+pMxJsKoJepiVcKbMo=
+
+Name: patch/system/lib/libHMSGallery_vheffects.so.p
+SHA1-Digest-Manifest: we5QTePGxDzb9MEViF9hEByv+LI=
+
+Name: patch/system/lib/modules/qcedev.ko.p
+SHA1-Digest-Manifest: 6695O7+ATJ0XEtZbN2WJoWCNGic=
+
+Name: patch/system/priv-app/HtcNotesProvider.odex.p
+SHA1-Digest-Manifest: YNlK1p6sDQRgSt5r2aemSIVwIEk=
+
+Name: patch/system/priv-app/GoogleServicesFramework.apk.p
+SHA1-Digest-Manifest: aAU+GJTv2YQMI9RmZ9VSJYvaEVA=
+
+Name: patch/system/priv-app/Stk.odex.p
+SHA1-Digest-Manifest: F3F18p0EljQk/1xL0QKS+hIzA8k=
+
+Name: patch/system/framework/com.android.nfc_extras.odex.p
+SHA1-Digest-Manifest: Rzv/NyoFL7p5JZFjrDgmAnBqYmg=
+
+Name: patch/system/lib/libpanostitcher.so.p
+SHA1-Digest-Manifest: tg+wfAcLHBb3A7QQn6V7KkdxXy4=
+
+Name: patch/system/lib/libsrsprocessing.so.p
+SHA1-Digest-Manifest: kKLxcuWuKWU7jqQGMmK41SipYkw=
+
+Name: patch/system/priv-app/MyGoogledrive.odex.p
+SHA1-Digest-Manifest: FP/UQzLp7zpcoV9E1d2C+KJhqiE=
+
+Name: patch/system/bin/lsc_camera.p
+SHA1-Digest-Manifest: /+Vnzj2qH16Q5lbwGDtgfEIWbGs=
+
+Name: patch/system/app/HtcRingtoneWidget.odex.p
+SHA1-Digest-Manifest: /BvogC4f25g0Hbvyn9YLOiDZfT4=
+
+Name: patch/system/app/KeyChain.odex.p
+SHA1-Digest-Manifest: GlUpHNEimoZi1f/EmiWjPww3IQM=
+
+Name: patch/system/customize/CID/HTC__405.xml.p
+SHA1-Digest-Manifest: n6YVjLe8EIQBF/N+I09qda5iDxo=
+
+Name: patch/system/app/IMEXT9French.odex.p
+SHA1-Digest-Manifest: M2K5xlK66txTm3cZCHopfxpvFWI=
+
+Name: patch/system/bin/screencap.p
+SHA1-Digest-Manifest: GUmlxh9cw5/RjTnmAkW4Gagh46s=
+
+Name: system/etc/security/cacerts/e268a4c5.0
+SHA1-Digest-Manifest: hpsYgerLZvSi0JsUhfR3OtNdhdM=
+
+Name: data/preload/HTC__405.xml
+SHA1-Digest-Manifest: zMnI65YwHfb/eqL8X1fjm8DneeI=
+
+Name: patch/system/lib/libgames_rtmp_jni.so.p
+SHA1-Digest-Manifest: zUQ/V7QI7HNyM7Y9oXbWgoS3dkY=
+
+Name: patch/system/vendor/lib/libc2d2_z180.so.p
+SHA1-Digest-Manifest: JYrlr6DXa7KG/Lr1ywqnEwpfCsw=
+
+Name: data/preload/HTC__203.xml
+SHA1-Digest-Manifest: V+vKjYKLSSbyE1+4fdyBy+4xEF8=
+
+Name: patch/system/lib/libandroidfw.so.p
+SHA1-Digest-Manifest: 4lYMbNWK8ZMCX7tBzWr2kNCAwV4=
+
+Name: patch/system/priv-app/GoogleLoginService.apk.p
+SHA1-Digest-Manifest: 5x9uFcPnEQPpAcCZ9u1QKvpK7C8=
+
+Name: patch/system/priv-app/WorldClock.apk.p
+SHA1-Digest-Manifest: 9wvWsmSySKNMtqf+WqYqu/leWzE=
+
+Name: data/preload/HTC__016.xml
+SHA1-Digest-Manifest: n6WNuT6UG5hjM0hJL4A4yM8i3f4=
+
+Name: patch/system/bin/mm-video-encdrv-test.p
+SHA1-Digest-Manifest: W0GqYpyGXLE2EKchqVFmzBTgYJo=
+
+Name: system/framework/com.android.future.usb.accessory.jar
+SHA1-Digest-Manifest: xEoB/FsLuYphfCFo9PExNzGGQOw=
+
+Name: patch/system/priv-app/DownloadProvider.odex.p
+SHA1-Digest-Manifest: bmj7Zyoz/S6a18uxZZe6bECtZYk=
+
+Name: patch/system/priv-app/HtcWeatherClockWidget.apk.p
+SHA1-Digest-Manifest: 8IVbjv5ndG3fTBhtbjZvFScf/pk=
+
+Name: patch/system/customize/ACC/HTC__032.xml.p
+SHA1-Digest-Manifest: vpMuW4QMuQ8qjk0XDzQGKcWrFcE=
+
+Name: patch/system/lib/libc.so.p
+SHA1-Digest-Manifest: C5H3LmRUPzWcoDaaH/ashQ/7bpM=
+
+Name: patch/system/framework/com.htc.socialnetwork.res.apk.p
+SHA1-Digest-Manifest: xrgI+GtYUwQy052dV6L7H76FBjQ=
+
+Name: patch/system/app/IMEXT9Spanish.odex.p
+SHA1-Digest-Manifest: Y0ERjgCITTqV4XvmcPlIB7Vh0kQ=
+
+Name: patch/system/app/Usage.apk.p
+SHA1-Digest-Manifest: ojC3Nh1IOu79H34CeBtMzHfTh+A=
+
+Name: patch/system/app/DownloadProviderUi.apk.p
+SHA1-Digest-Manifest: /aFCdecmbpUmytLLYdcq6JstjlA=
+
+Name: patch/system/priv-app/SMSBackup.apk.p
+SHA1-Digest-Manifest: 2QotOTz8AdZ1/EtjG9o6ZtiQYWA=
+
+Name: patch/system/priv-app/HtcBtWidget.apk.p
+SHA1-Digest-Manifest: 7XnIo2DU5KnkFp/8Xc89isFmqnU=
+
+Name: patch/system/customize/ACC/default.xml.p
+SHA1-Digest-Manifest: MN7VNKrc1a+8ovbLnIysWHKjWe0=
+
+Name: patch/system/etc/firmware/fw_bcm4335_b0.bin.p
+SHA1-Digest-Manifest: WYJmLntv8EQwSlQ9Gro0sYvXHMc=
+
+Name: patch/system/priv-app/MyHTC.odex.p
+SHA1-Digest-Manifest: kyTJX73KLTVpsDa/rMRcwmSAHuE=
+
+Name: system/customize/clientid/default.prop_HTC__102
+SHA1-Digest-Manifest: GNCZj3KmdfgWeCif5FXHfY9T8jw=
+
+Name: data/preload/weather_l_thunderstorm_day.mp4
+SHA1-Digest-Manifest: aVXJNvKMLCNa3UKJ0pVST3xT6yw=
+
+Name: data/preload/weather_l_cloudy_night.mp4
+SHA1-Digest-Manifest: UThtezwQamgBFIDjv3hUDU4mK7U=
+
+Name: patch/system/fonts/Roboto_Sup.ttf.p
+SHA1-Digest-Manifest: tDegTjHSkj8MLrvEAtO/Exqn8oI=
+
+Name: patch/system/customize/MNS/default.xml.p
+SHA1-Digest-Manifest: UR4mCg/f99oPZpyvAplmWzKg3WA=
+
+Name: patch/system/framework/uiautomator.odex.p
+SHA1-Digest-Manifest: KabqeXupeO/3NjNyC4RDhMpwQI0=
+
+Name: data/preload/mattingshotandpaste_stickers_14.png
+SHA1-Digest-Manifest: 2WqyGDOIa3E8yjR4ihbSo4Q4Umc=
+
+Name: patch/system/framework/core-junit.odex.p
+SHA1-Digest-Manifest: zZ7pDJ/N7N5eyt4Gf0HYg5VzG8s=
+
+Name: patch/system/lib/modules/ks8851.ko.p
+SHA1-Digest-Manifest: dhmWnixlX/eZBZpiuNUprDmXJ3E=
+
+Name: patch/system/vendor/lib/libadreno_utils.so.p
+SHA1-Digest-Manifest: pHvB9VyJHKANfVuc+sDEuwMJLxQ=
+
+Name: patch/system/priv-app/HtcNotes.apk.p
+SHA1-Digest-Manifest: cRV/tETR0Amj0LxFCPXJa03OzAE=
+
+Name: patch/system/app/BasicDreams.odex.p
+SHA1-Digest-Manifest: DhSoMblAqDOTnHh+KNpUOBLFMEs=
+
+Name: patch/system/lib/libsqlite.so.p
+SHA1-Digest-Manifest: KbnBxYtqqHaah7YRuiIyjbpYAQ8=
+
+Name: system/lib/libebt_stp.so
+SHA1-Digest-Manifest: VQKWrU+Wb6XOSU4Bn5jQjX35WuI=
+
+Name: system/lib/libebt_mark.so
+SHA1-Digest-Manifest: HtQV+Vf6dtsN/pK6id2bPfjUefY=
+
+Name: patch/system/app/PrivInit.odex.p
+SHA1-Digest-Manifest: d6j6coHjMs/ld1wWcWcYJ5IcK8I=
+
+Name: patch/system/app/Twitter_Client.odex.p
+SHA1-Digest-Manifest: 0aDag3qTA6LWKpATHOKQXcDzCDE=
+
+Name: patch/system/app/HtcCarGps.odex.p
+SHA1-Digest-Manifest: xWWGuj96OCOI8OtDFibm3MAl67s=
+
+Name: patch/system/lib/libwebrtc_audio_coding.so.p
+SHA1-Digest-Manifest: YAf/3uE0MMFJEX8vdWFEfFaY+SI=
+
+Name: patch/system/bin/exfatck.p
+SHA1-Digest-Manifest: M8cETuhy0AY6ORjfplpyRst7Fao=
+
+Name: data/preload/mocanaKeyVpnServiceF.apk
+SHA1-Digest-Manifest: cuiF408WapnEocU6cDhP1kszEG4=
+
+Name: patch/system/app/HtcProfilesWidget.apk.p
+SHA1-Digest-Manifest: ytvzI6zNq73Xbq8rJeyxxrVdapQ=
+
+Name: patch/system/priv-app/MyTask.odex.p
+SHA1-Digest-Manifest: x6B7Th87OjaAtMRNdT7LpzK9h/Q=
+
+Name: patch/system/fonts/hkgcsh00d.ttf.p
+SHA1-Digest-Manifest: HuPkj+5/d+6hIBwHIqYPeNetEz4=
+
+Name: patch/system/priv-app/Video_Center.odex.p
+SHA1-Digest-Manifest: NyAA1uK4d/74TtduLtrlQ8z1kHQ=
+
+Name: patch/system/customize/MNS/28020.xml.p
+SHA1-Digest-Manifest: urgySVaC1RnIU16umMqQbqhLJg4=
+
+Name: patch/system/app/GoogleTTS.apk.p
+SHA1-Digest-Manifest: MaFaa9wD8ejI3JLnN+WnjKHL5DY=
+
+Name: patch/system/etc/NOTICE.html.gz.p
+SHA1-Digest-Manifest: VBDYASr9fcWDLSZx0lnHTdjwPww=
+
+Name: system/framework/input.jar
+SHA1-Digest-Manifest: gtj7J+Ng+08yfSd6fjtdjYd61qY=
+
+Name: patch/system/lib/libbinder.so.p
+SHA1-Digest-Manifest: SFTbFe/lA0uPGNxcA5RVKL7bUVo=
+
+Name: patch/system/framework/webview/paks/da.pak.p
+SHA1-Digest-Manifest: gG0mxCZQs3TOYqhb4/lF25RVdnY=
+
+Name: patch/system/framework/com.google.widevine.software.drm.odex.p
+SHA1-Digest-Manifest: ZnaBjIDy4843AWW41s+VijzVYq4=
+
+Name: patch/system/bin/v4l2-qcamera-app.p
+SHA1-Digest-Manifest: mhJGh99bda40IDw1bYHqebieSKo=
+
+Name: patch/system/usr/icu/icudt51l.dat.p
+SHA1-Digest-Manifest: J71CXwz3D7pKiGTBZSxjIZ/Y4BA=
+
+Name: system/framework/usbnet.jar
+SHA1-Digest-Manifest: m9Gf9WPYMG/z8GpO5cpwrm52zzo=
+
+Name: system/framework/android.test.runner.jar
+SHA1-Digest-Manifest: Ob0fm9fEzWKK8CQIhFXRnNnV7/o=
+
+Name: patch/system/priv-app/Message.odex.p
+SHA1-Digest-Manifest: /YMI97ud+yTATTGnf9yXAJi88wo=
+
+Name: system/framework/mms-common.jar
+SHA1-Digest-Manifest: bMuQpxhRtqPYkUrlJIk66aOeblA=
+
+Name: patch/system/framework/webview/paks/pt-BR.pak.p
+SHA1-Digest-Manifest: 5yhJNGG9Lf4o9HxpNuyrafZP9is=
+
+Name: patch/system/app/IMEXT9Greek.odex.p
+SHA1-Digest-Manifest: Tm8va36o2JOVGyJ5kl+n8EIslGk=
+
+Name: patch/system/app/HtcMessageProvider.apk.p
+SHA1-Digest-Manifest: p4fu08P/ghWpfWQj32nXfje04NQ=
+
+Name: patch/system/customize/MNS/21910.xml.p
+SHA1-Digest-Manifest: 4qQxsUKRkOgjjX8qLP2Z7UPYu3M=
+
+Name: patch/system/bin/wpa_supplicant.p
+SHA1-Digest-Manifest: fEA2wxDCiMLsZUFO93nysAXrSmA=
+
+Name: patch/system/framework/framework-res-htc.apk.p
+SHA1-Digest-Manifest: ojb7rNuhEqnJZSi+j14DePqIBvs=
+
+Name: patch/system/lib/hw/audio.r_submix.default.so.p
+SHA1-Digest-Manifest: ecYxMEnCVK7dXq/k9D6Hdj3S0gs=
+
+Name: patch/system/priv-app/HtcLockScreen.apk.p
+SHA1-Digest-Manifest: tL90FihBJHwry7wS+QwkTnGNFuc=
+
+Name: patch/system/framework/com.google.android.maps.jar.p
+SHA1-Digest-Manifest: EYZbVfTaMMfImzDAuj0M+Cestw8=
+
+Name: patch/system/app/HtcMessageProvider.odex.p
+SHA1-Digest-Manifest: /i80ge3ubXrTEH1WCp4OlNg0+yU=
+
+Name: patch/system/customize/CID/default.xml.p
+SHA1-Digest-Manifest: 7ql70ZespCikG3UJFPXP9c03XbM=
+
+Name: patch/system/priv-app/HtcMessageUploader.apk.p
+SHA1-Digest-Manifest: J+H7cy2wv2InStjAgGTqb5AX/3w=
+
+Name: patch/system/bin/dumpstate.p
+SHA1-Digest-Manifest: wbdTOMPbskKvZETulsVNtaEhZm8=
+
+Name: system/etc/security/cacerts/9576d26b.0
+SHA1-Digest-Manifest: OJveUPuC/gD/PqXR9M2UloIHPzU=
+
+Name: system/lib/libebt_limit.so
+SHA1-Digest-Manifest: Hn1ldohr8Ag48EXJWBfFHJMiCMk=
+
+Name: patch/system/app/SmartcardService.odex.p
+SHA1-Digest-Manifest: Ob/62giXjXlD4Mnvf6ptlf3Jocc=
+
+Name: patch/system/customize/CID/HTC__J15.xml.p
+SHA1-Digest-Manifest: 2G8OE55eWjcJvLZfdIfiMzP7S4s=
+
+Name: META-INF/com/android/otacert
+SHA1-Digest-Manifest: Us1dz99UKdF2klRZqFsV10Raex0=
+
+Name: patch/system/lib/hw/bplus.default.so.p
+SHA1-Digest-Manifest: dpYiQvzp/DwQIDVHx5P4hDUhPNw=
+
+Name: patch/system/bin/adb.p
+SHA1-Digest-Manifest: 4sGaxg6J9Rgd0DCApThNd5XyREs=
+
+Name: patch/system/priv-app/HtcMobileNetworkWidget.odex.p
+SHA1-Digest-Manifest: JnhAj+OdNeahl+aOwOofoAxq4wQ=
+
+Name: patch/system/lib/libjni_gifCreator.so.p
+SHA1-Digest-Manifest: ab/tDQ2q3G0/9UL95HGvrqZVGuY=
+
+Name: patch/system/lib/libspeexwrapper.so.p
+SHA1-Digest-Manifest: FVNZpRzD17PCsYuxr5dtEvE2mPk=
+
+Name: system/etc/ethertypes
+SHA1-Digest-Manifest: DfJVwKCEeB/pcvpr99JkDn3uM+Y=
+
+Name: data/preload/mattingshotandpaste_stickers_27.png
+SHA1-Digest-Manifest: WsFpvkOJQ/B2bCm85e/WiThtQ3M=
+
+Name: patch/system/app/GoogleCalendarSyncAdapter.apk.p
+SHA1-Digest-Manifest: tBE2+mw32hpwgJDnv2DSd1YvHMU=
+
+Name: system/priv-app/GoogleOneTimeInitializer.apk
+SHA1-Digest-Manifest: w5OvZI+mEIUjc5Dsa4hHVlf7vOc=
+
+Name: system/customize/clientid/default.prop
+SHA1-Digest-Manifest: S8+eAuVmo2g4ZzG/Unt21sG9/64=
+
+Name: patch/system/priv-app/MyHTC.apk.p
+SHA1-Digest-Manifest: 6ALwkWlJ5hk8xr5PsNYzGuDE8Lo=
+
+Name: patch/system/lib/libcneutils.so.p
+SHA1-Digest-Manifest: Ns7dpKPXG3Xf7j8LhnQwraZDY1M=
+
+Name: patch/system/priv-app/HtcContactWidgets.odex.p
+SHA1-Digest-Manifest: Wsq3qfrDd7J4LS16zPuOMp72Whw=
+
+Name: patch/system/vendor/lib/libllvm-arm.so.p
+SHA1-Digest-Manifest: 8FGBvLMBU+wSEun+nVO4ZTqocB8=
+
+Name: system/lib/libpatts_engine_jni_api_ub.210030103.so
+SHA1-Digest-Manifest: AOUK7hzU6nyf9x96GCktEVXzAV8=
+
+Name: patch/system/priv-app/HtcModeClient.odex.p
+SHA1-Digest-Manifest: wc9/4ElZA6JJQGtwskAh27vc2VY=
+
+Name: patch/system/priv-app/Twitter.apk.p
+SHA1-Digest-Manifest: ietOnqHjRW7TqBC/q0J8Euotyqo=
+
+Name: system/etc/security/cacerts/91739615.0
+SHA1-Digest-Manifest: mSHnEDaRj2NqVMRVcYFcDQIR1W8=
+
+Name: patch/system/lib/libmemalloc.so.p
+SHA1-Digest-Manifest: m/pzmWGVotlE9p7Xm56ygcmlUS0=
+
+Name: patch/system/lib/libalDynamicWarping_SDW_TWO.so.p
+SHA1-Digest-Manifest: Ebcbb67k1zBNf1bVsMKbX5tUA08=
+
+Name: patch/system/app/Bluetooth.odex.p
+SHA1-Digest-Manifest: grmT1duT5D7E/uA7HE9rWJJZzd4=
+
+Name: patch/system/priv-app/DefaultContainerService.apk.p
+SHA1-Digest-Manifest: CY7OnyOvLn891tLwDGWdFoKbgh0=
+
+Name: data/preload/mattingshotandpaste_stickers_29.png
+SHA1-Digest-Manifest: rvrSbr2FYVlRNRNPbpnFF5lvTmc=
+
+Name: patch/system/lib/modules/evbug.ko.p
+SHA1-Digest-Manifest: FOFVW5dbvyE77l8fmguu9eGYF5E=
+
+Name: system/framework/settings.jar
+SHA1-Digest-Manifest: SNok3K4ktr/fm/WAoVdw+5LIr8I=
+
+Name: patch/system/lib/modules/reset_modem.ko.p
+SHA1-Digest-Manifest: hEtB9Dgt8KVaJ54/ZPJbp6jq9/0=
+
+Name: data/preload/mattingshotandpaste_stickers_03.png
+SHA1-Digest-Manifest: i1wo+Uzl/rMxWkSyIR4BEjavWZA=
+
+Name: patch/system/priv-app/HTCAdvantage.apk.p
+SHA1-Digest-Manifest: D2em3lpOF3vMTx+UbMaynHMxxUc=
+
+Name: patch/system/framework/apache-xml.jar.p
+SHA1-Digest-Manifest: D+TvmHfeHO01CdqPeU91NiU57LI=
+
+Name: patch/system/framework/com.htc.htccalendarframework.res.apk.p
+SHA1-Digest-Manifest: AWge50C8EbkaaPNGnBzQMIoPIko=
+
+Name: patch/system/bin/rild.p
+SHA1-Digest-Manifest: 6hSnA8oG4ERpioREfPY4aP3yULs=
+
+Name: patch/system/priv-app/CustomizationSetup.apk.p
+SHA1-Digest-Manifest: VIHF/W6MNiqAZyFc+RFwREYELuM=
+
+Name: patch/system/lib/libnetjni.so.p
+SHA1-Digest-Manifest: sVZJQh5tfPNiCGQb3JWxw5tXckY=
+
+Name: patch/system/priv-app/MediaProvider.apk.p
+SHA1-Digest-Manifest: O9uId2WDAxAdI4d80UM9qFUnnuk=
+
+Name: patch/system/priv-app/MyGoogleTaskPlugin.odex.p
+SHA1-Digest-Manifest: AiYQpzB9U2N58a2BjyJaWMf9EZE=
+
+Name: patch/system/framework/webview/paks/zh-CN.pak.p
+SHA1-Digest-Manifest: gTuslkwQvzmZeVu3aJjzFDM3bkY=
+
+Name: patch/system/lib/libhardware_legacy.so.p
+SHA1-Digest-Manifest: Rsx0onIKMIi0GcObbk+SWx6Z/6w=
+
+Name: patch/system/customize/MNS/24002.xml.p
+SHA1-Digest-Manifest: O1vLKcK+u2tQfqpbOHoOjzrwn+I=
+
+Name: data/preload/mattingshotandpaste_stickers_01.png
+SHA1-Digest-Manifest: 5+0pbOeUY7sioDq6PmC02yJChYU=
+
+Name: patch/system/lib/libstagefright_wfd.so.p
+SHA1-Digest-Manifest: cvfuEq2eLVhgNUAFkFHhiWwP188=
+
+Name: data/preload/HTC__E11.xml
+SHA1-Digest-Manifest: n+tgVDZApGOv0haXvtseytGeCeE=
+
+Name: system/priv-app/HtcBrowserProxyProvider.odex
+SHA1-Digest-Manifest: BqRwzVAG809BezSQOppNrDzW2Z4=
+
+Name: patch/system/lib/libqcomomxsample_jb.so.p
+SHA1-Digest-Manifest: 0mFK2rag5k6ToklsIEEfpIuw+OY=
+
+Name: patch/system/priv-app/GooglePlusPlugin.apk.p
+SHA1-Digest-Manifest: nMDF495OcwGl2AlE3HhfVuYB90k=
+
+Name: patch/system/lib/libmdnssd.so.p
+SHA1-Digest-Manifest: 7Rh0vrcBjNQk6AKz6X+KvyNIGfI=
+
+Name: patch/system/priv-app/Instagram_SN_Plugin.odex.p
+SHA1-Digest-Manifest: 7jgaT0YyQSWpOlqOOXTvaPoqKc4=
+
+Name: data/preload/weather_hot.mp4
+SHA1-Digest-Manifest: RkLp73etEgz0fJZeqOR73cIveXM=
+
+Name: patch/system/priv-app/Phonesky.apk.p
+SHA1-Digest-Manifest: CZjkTCKhFg3vhB3zUI+3g4SvvBQ=
+
+Name: patch/system/lib/libimage-jpeg-enc-omx-comp.so.p
+SHA1-Digest-Manifest: lQ+sUnISx1G3Nsm1gghkZ41bq4g=
+
+Name: patch/system/lib/libacdbloader.so.p
+SHA1-Digest-Manifest: 5U+nklnFlv3r1baYS9ZxY31W+1g=
+
+Name: data/preload/HTC_News.apk
+SHA1-Digest-Manifest: dmwLiqOskysnWo+kFp6D/dS6CEc=
+
+Name: patch/system/app/SmartcardService.apk.p
+SHA1-Digest-Manifest: /S8ItDnt7meBtWysGJoNFADXgik=
+
+Name: patch/system/bin/awb_camera.p
+SHA1-Digest-Manifest: eUE34fplPvD6qC7yn60pcISAuq8=
+
+Name: patch/system/priv-app/FlexNet.apk.p
+SHA1-Digest-Manifest: /UU5PXouCPKiAHEDBa2i48yu1SY=
+
+Name: patch/system/priv-app/GooglePartnerSetup.apk.p
+SHA1-Digest-Manifest: yxr5Uh88OtybZoPZoQmbjZ1mKn8=
+
+Name: patch/system/priv-app/Facebook.odex.p
+SHA1-Digest-Manifest: 8UGMnQsQ3SnoxFm15X2cY75ilYs=
+
+Name: data/preload/weather_snow_night.mp4
+SHA1-Digest-Manifest: 0/gvXY5QA0JomRecrphwveWFyOU=
+
+Name: patch/system/customize/MNS/24801.xml.p
+SHA1-Digest-Manifest: m+AY3KMTfbHk5noZxxekJ9mKWuY=
+
+Name: patch/system/lib/libimagelib.so.p
+SHA1-Digest-Manifest: Tj+Ph/cWq/Y5PIZ+Ni4FXQweLHc=
+
+Name: patch/system/bin/hci_qcomm_init.p
+SHA1-Digest-Manifest: O/y5wmvJRgUzTUwPpHyBcb8ideI=
+
+Name: patch/system/priv-app/FusedLocation.odex.p
+SHA1-Digest-Manifest: aL46l450TL8b+qJwmdseo3avSAs=
+
+Name: patch/system/lib/libwebrtc_audio_preprocessing.so.p
+SHA1-Digest-Manifest: EeNcQOiX/i4hySTAdozrUd6GZqY=
+
+Name: patch/system/lib/soundfx/libbundlewrapper.so.p
+SHA1-Digest-Manifest: LQUvX0W/c5aR7yvt+4hz1wXsjUE=
+
+Name: patch/system/customize/MNS/26003.xml.p
+SHA1-Digest-Manifest: V8m2GubHoolU63pnHd4X20Fti6E=
+
+Name: data/preload/mocanaKeyVpnF.apk
+SHA1-Digest-Manifest: ++JuV5tAeksB5PWwxyu8G8n/bnU=
+
+Name: patch/system/customize/MNS/65510.xml.p
+SHA1-Digest-Manifest: 0EQzxRKJ9VcppnTE2ke61O8uV6A=
+
+Name: patch/system/app/IMEXT9German.odex.p
+SHA1-Digest-Manifest: 58/rHf5gmWomXSkRCVpeAHNDXE4=
+
+Name: patch/system/app/HTCBackup.apk.p
+SHA1-Digest-Manifest: mvlXXSNWQIgfxuzszWCFsd0sUFs=
+
+Name: patch/system/bin/hostapd_cli.p
+SHA1-Digest-Manifest: o5ZXlG46FZIQSyoaSvrfJA93CIs=
+
+Name: patch/system/lib/modules/moc_crypto.ko.3.4.10.p
+SHA1-Digest-Manifest: JCcpFgpaGeYm6HIcE7XNc7a+eXk=
+
+Name: system/framework/com.htc.fusion.fx.jar
+SHA1-Digest-Manifest: nJoZ5JReDwajo7uoaR1p4CWIht4=
+
+Name: patch/system/bin/hostapd.p
+SHA1-Digest-Manifest: UeZbdNauh0X9P1BDJLNX4lx/GYk=
+
+Name: patch/system/lib/libssl.so.p
+SHA1-Digest-Manifest: DXUYyDRBnC0kLUc/BxWe4ZdvE1o=
+
+Name: patch/system/bin/mm-venc-omx-test720p.p
+SHA1-Digest-Manifest: 5RQvZW7yzPGpwy4GLoYWsyCNKp4=
+
+Name: patch/system/priv-app/HTCAdvantage.odex.p
+SHA1-Digest-Manifest: udIoBqQAXtqgVIztvZGRjz1sD/E=
+
+Name: patch/system/app/HtcSettingsProvider.apk.p
+SHA1-Digest-Manifest: fPugZmRP/rePf4Greeh2YQAfFl8=
+
+Name: patch/system/lib/libmmcamera_rawchipproc.so.p
+SHA1-Digest-Manifest: 7kfdltMAXxAyX9cxtL4Qz3TbaHs=
+
+Name: patch/system/framework/android.test.runner.odex.p
+SHA1-Digest-Manifest: gLETw+zvqFSWA03iA646WFGzpck=
+
+Name: patch/system/priv-app/WallpaperCropper.apk.p
+SHA1-Digest-Manifest: trDDhKF6zpwtbvhkrzzRMoe/+K4=
+
+Name: patch/system/priv-app/LMW.apk.p
+SHA1-Digest-Manifest: V79ZATrmQDZAROb00rVJYgKktzM=
+
+Name: system/framework/com.android.nfc_extras.jar
+SHA1-Digest-Manifest: KCwmM0HJ6ID3zKglVJwW2Qnaa0Y=
+
+Name: patch/system/framework/com.htc.fusion.fx.odex.p
+SHA1-Digest-Manifest: NHR20GdJ61RzSXo3N7UTG6oE3Zk=
+
+Name: patch/system/priv-app/HtcNotificationWidget.odex.p
+SHA1-Digest-Manifest: mPj4eiwvb3vMae8g11vmV9KpTEk=
+
+Name: system/framework/org.simalliance.openmobileapi.jar
+SHA1-Digest-Manifest: AfrZN0xJNRCuhhODRS1bkOf3bLQ=
+
+Name: patch/system/lib/libpolarisofficeSDK.so.p
+SHA1-Digest-Manifest: pZMn3AVzYucBrzKuwL3ZJKQPW/o=
+
+Name: patch/system/framework/webview/paks/ms.pak.p
+SHA1-Digest-Manifest: 2X6id9SN0KXYAmvP7lf6fnwtuMA=
+
+Name: patch/system/app/Gmail2.apk.p
+SHA1-Digest-Manifest: lLzkzRZm2ZsA7wY72qIrPzBF8cc=
+
+Name: data/preload/Calculator.apk
+SHA1-Digest-Manifest: J8Wjbun0/ZyfFF2vYjbaO9yXCZI=
+
+Name: patch/system/framework/conscrypt.odex.p
+SHA1-Digest-Manifest: KdIE7PlECcFVAzhcBu7hTpRrLYY=
+
+Name: patch/system/lib/libHMSGallery_facedetector.so.p
+SHA1-Digest-Manifest: /bHFut69IrFZR+Nt/jmOlGWdoXc=
+
+Name: patch/system/customize/MNS/21401.xml.p
+SHA1-Digest-Manifest: 4ZfSLAtpdy4eJX9h1byxFVg/JM0=
+
+Name: data/preload/weather_l_hot.mp4
+SHA1-Digest-Manifest: QYyqUximMjMe/tVm7cNHbTd+PtE=
+
+Name: patch/system/priv-app/Weather.apk.p
+SHA1-Digest-Manifest: m+bs3QtCd81uXc+rx/H8iBRXQzo=
+
+Name: patch/system/etc/sdk/sdkinfo.xml.p
+SHA1-Digest-Manifest: vm/43dYIUW3h5QH3sa5NyPdf22s=
+
+Name: patch/system/priv-app/HtcCompressViewer.odex.p
+SHA1-Digest-Manifest: x8JSuGua74Wb0nLKqydqDZ/6zLM=
+
+Name: patch/system/framework/com.htc.videowidget.res.apk.p
+SHA1-Digest-Manifest: MgKAISrzs4DYwCRU99FciMrvfgk=
+
+Name: patch/system/customize/MNS/26803.xml.p
+SHA1-Digest-Manifest: sWPljtsYVGn0uLylY2VoOkX7nWw=
+
+Name: patch/system/framework/voip-common.odex.p
+SHA1-Digest-Manifest: fxXc0G4DqpEGohNSAoO8a9UA81o=
+
+Name: data/preload/mattingshotandpaste_stickers_04.png
+SHA1-Digest-Manifest: VHzseqQVUm45prNPrbvjIb2mZ0A=
+
+Name: patch/system/priv-app/Instagram_SN_Plugin.apk.p
+SHA1-Digest-Manifest: v2x6VqbQtJoA1rOmghlAu7l2pYE=
+
+Name: patch/system/lib/libaudcal.so.p
+SHA1-Digest-Manifest: qMntlj7jFb4P/JMMCLUHM8k0Zaw=
+
+Name: patch/system/customize/MNS/23802.xml.p
+SHA1-Digest-Manifest: 7cJMsuRM86D+bJR61Ap7dRceQdU=
+
+Name: patch/system/priv-app/HtcRingtoneTrimmer.odex.p
+SHA1-Digest-Manifest: g+1DpIov9t9bK5n5CG4dS/BDBro=
+
+Name: system/lib/libchrome.1916.141.so
+SHA1-Digest-Manifest: YdewCbkYKeGxEO7xvN12WFlxINM=
+
+Name: patch/system/lib/hw/camera.msm8960.so.p
+SHA1-Digest-Manifest: 2sIhexHacKXEqHcXko+4fnIza9c=
+
+Name: patch/system/app/KidMode-google.odex.p
+SHA1-Digest-Manifest: KE87pFc91w5lZC+tjTR+p8ewBPc=
+
+Name: patch/system/app/IMEXT9Portuguese.odex.p
+SHA1-Digest-Manifest: vhLZqZsysSKYQZqo2j7LqQHNNEc=
+
+Name: patch/system/lib/libHMSGallery_libDualLens.so.p
+SHA1-Digest-Manifest: uZvl+NSCFIHXbbFfMOOXZv4zIko=
+
+Name: patch/system/app/Font_LCD.odex.p
+SHA1-Digest-Manifest: oHdHYPNIMWvtFfOjxFcl4s23Enk=
+
+Name: patch/system/priv-app/LMW.odex.p
+SHA1-Digest-Manifest: AROmGyqoira/KDS9Vh7/cGCj14g=
+
+Name: patch/system/lib/libqdp.so.p
+SHA1-Digest-Manifest: zr6usx5fj8f3xsG+c9m0/KQWj+w=
+
+Name: system/lib/libebt_nflog.so
+SHA1-Digest-Manifest: AIhlh2U9LT6KhzIqOYMpwJtJPv4=
+
+Name: patch/system/framework/usbnet.odex.p
+SHA1-Digest-Manifest: E4x95qrhI3RGyqv7TkEY5SgNr9M=
+
+Name: data/preload/weather_partly_sunny.mp4
+SHA1-Digest-Manifest: ETSoh6l/YfWKCIP6joTDjVlfRhU=
+
+Name: patch/system/customize/MNS/23407.xml.p
+SHA1-Digest-Manifest: Qpezar3AI8kZ/bWBFgdG6SRuiyk=
+
+Name: patch/system/app/IMEXT9Catalan.odex.p
+SHA1-Digest-Manifest: 7U737bhaR8XFMtxX6clp8ivRUQc=
+
+Name: patch/system/priv-app/Updater.apk.p
+SHA1-Digest-Manifest: ZB50Stc7aKoDNyNWEyG9a3SsFoU=
+
+Name: patch/system/app/CalculatorWidget.apk.p
+SHA1-Digest-Manifest: BRFqMeRGuAwqcDIkxQmGPCdYPRA=
+
+Name: patch/system/lib/libstagefright_chromium_http.so.p
+SHA1-Digest-Manifest: w9ccmG1UAjHdTFSaKYb6tgkyHOE=
+
+Name: patch/system/priv-app/LauncherUpdateScreen.odex.p
+SHA1-Digest-Manifest: iSQEj5RwQ7mnRDnd+F0KUvTP38A=
+
+Name: patch/system/priv-app/Transfer.apk.p
+SHA1-Digest-Manifest: IMOb7FAI30fEObxyU+kRIF/7ukw=
+
+Name: patch/system/app/Drive.apk.p
+SHA1-Digest-Manifest: AdLr96yZD3tZaxJYTcnIut6skhk=
+
+Name: patch/system/lib/libalDE_SDE_TWO.so.p
+SHA1-Digest-Manifest: kCNqDYV+w6A3mhaVIgEiOXOOnWU=
+
+Name: patch/system/app/VisualizationWallpapers.odex.p
+SHA1-Digest-Manifest: 8WJkZ3sjaiwawAcwFbsFw2IWKvU=
+
+Name: patch/system/app/FMRadioService.odex.p
+SHA1-Digest-Manifest: tlHtZBGNqBUYy4kcDvnZiR9ukyg=
+
+Name: patch/system/app/QXDM2SD.odex.p
+SHA1-Digest-Manifest: 1OG+dGAcRbNFr/mTEael2IYPFRU=
+
+Name: patch/system/framework/monkey.odex.p
+SHA1-Digest-Manifest: jJSrtVvMpdlQ89Bfu2y7iW/ZopQ=
+
+Name: data/preload/weather_windy_day.mp4
+SHA1-Digest-Manifest: oGe5vYqYbb3e8NGdh4ThX39zlRQ=
+
+Name: data/preload/weather_partly_cloud_day.mp4
+SHA1-Digest-Manifest: yf/EGPQQ0lz3dT7hFG1+in2USHo=
+
+Name: system/priv-app/HTCCN_FileManager.odex
+SHA1-Digest-Manifest: ChO50oVNb9oahJVF/d6tDl8LEws=
+
+Name: patch/system/framework/webview/paks/de.pak.p
+SHA1-Digest-Manifest: jkTfPpzXBwBuVs08T56SsUTtQyk=
+
+Name: patch/system/framework/webview/paks/hi.pak.p
+SHA1-Digest-Manifest: 9h2yp6nlV2R89Hk/144qy/PbyuA=
+
+Name: patch/system/customize/MNS/23801.xml.p
+SHA1-Digest-Manifest: V5hxCnQWa3ZZGvQIYVxOYEyedrM=
+
+Name: patch/system/customize/ACC/HTC__102.xml.p
+SHA1-Digest-Manifest: 6B4h2hnAGiJiF8PiFruI9dXIm/M=
+
+Name: patch/system/customize/MNS/20404.xml.p
+SHA1-Digest-Manifest: WUJDuSgFnx6lfJ1p5JiqWrsrcUI=
+
+Name: patch/system/customize/MNS/262.xml.p
+SHA1-Digest-Manifest: Ak5nBM9RU6tdmF9Gv+j5qfwmjHw=
+
+Name: patch/system/priv-app/LMIRescue.odex.p
+SHA1-Digest-Manifest: LcE7xjA/CMYVBsNE40U+pZ6eDWg=
+
+Name: patch/system/media/audio/notifications/Lily.flac.p
+SHA1-Digest-Manifest: QEC8IweLph59LnO9k8bdi2eMR/8=
+
+Name: patch/system/customize/ACC/HTC__016.xml.p
+SHA1-Digest-Manifest: Ose8Bg3h6lhn/7socqDozrOswXI=
+
+Name: system/customize/clientid/default.prop_HTC__001
+SHA1-Digest-Manifest: /VKPrE8y+k7eB8U6noIaisAKwhQ=
+
+Name: patch/system/lib/libfb_crypto.so.p
+SHA1-Digest-Manifest: 3N9mCBjv43N9L/zOx4Fhz8VhcrU=
+
+Name: patch/system/lib/libchromium_net.so.p
+SHA1-Digest-Manifest: FhcZXt/HNkCyPwbIgK1fb2ng/JY=
+
+Name: patch/system/fonts/NotoSansDevanagariUI-Regular.ttf.p
+SHA1-Digest-Manifest: WgAGB5HAcJDxHjgI4LooGGvKEjI=
+
+Name: patch/system/app/IMEXT9Arabic.odex.p
+SHA1-Digest-Manifest: 9mmQ+gQ7uC3oSkncMd5JxZJcJrw=
+
+Name: patch/system/framework/telephony-common.odex.p
+SHA1-Digest-Manifest: p4Wd/JBTuSu66laZNaiatQWGtD4=
+
+Name: patch/system/bin/toolbox.p
+SHA1-Digest-Manifest: 7N88tekiNsh9igIJqMcTz5R6F0c=
+
+Name: system/framework/javax.obex.jar
+SHA1-Digest-Manifest: JMVRNyJj2jXx6FgG5+PVUN79O+8=
+
+Name: system/lib/librectifier.so
+SHA1-Digest-Manifest: 8OGpaAVyO92nmyvqjqGRxZ974co=
+
+Name: patch/system/lib/modules/bluetooth-power.ko.p
+SHA1-Digest-Manifest: C72npW+trgkxIPRu7P7QX420WnQ=
+
+Name: patch/system/etc/fallback_fonts.xml.p
+SHA1-Digest-Manifest: +QZ5P45EWNyb10HPNOD8fKRDJ2Y=
+
+Name: patch/system/lib/libNimsWrap.so.p
+SHA1-Digest-Manifest: kY8oK/IsZMHQzas1UOpVQQxpftw=
+
+Name: system/media/musicchannel/MMI/landscape/temp_type8.mna.zip
+SHA1-Digest-Manifest: d+CZc67Mxjc1EpzXEHisXZIuZfI=
+
+Name: patch/system/framework/com.android.media.remotedisplay.odex.p
+SHA1-Digest-Manifest: MH3EcWStbtr39nfc4Aj2OQgp8nQ=
+
+Name: patch/system/app/SevenDigital-htc-tracking.odex.p
+SHA1-Digest-Manifest: hvgsc4xePLa/z2ckCSNHRXGXV0c=
+
+Name: patch/system/lib/libskia.so.p
+SHA1-Digest-Manifest: r7JNcRMOj7jRoX8a7wzzO3R3TYY=
+
+Name: patch/system/app/PlusOne.apk.p
+SHA1-Digest-Manifest: VkxR+zFfaoUiIyrS9lxMlgC6hps=
+
+Name: patch/system/priv-app/HTC_IME.odex.p
+SHA1-Digest-Manifest: 7cz7ryH5h/ko336g6L2M6jxQB0s=
+
+Name: system/lib/libgifdecoder2.so
+SHA1-Digest-Manifest: SH12jyPlIvnt9Lb88lz+DWCmVMw=
+
+Name: patch/system/customize/MNS/23420.xml.p
+SHA1-Digest-Manifest: zSQw+whVElCW9AYbmCoTW0/Eax8=
+
+Name: patch/system/customize/MNS/20810.xml.p
+SHA1-Digest-Manifest: tfz+jPh9GeLgEVJjB7ZWTvAO/eM=
+
+Name: patch/system/priv-app/Facebook_Client.odex.p
+SHA1-Digest-Manifest: GOz5vdL+zR5yA6v6Gtq6PVPRdng=
+
+Name: patch/system/framework/bu.odex.p
+SHA1-Digest-Manifest: ycFvUk0+v2iUEFeZJuSMC6czhBk=
+
+Name: patch/system/framework/com.orange.authentication.simcard.odex.p
+SHA1-Digest-Manifest: hKp2J2r1ZGDN3oGdZmvzfwCTMR0=
+
+Name: patch/system/app/HtcScreenBrightnessWidget.apk.p
+SHA1-Digest-Manifest: WJ+JkVhihawBDqCjtpgeXEpTWoo=
+
+Name: system/priv-app/HTCCN_FileManager.apk
+SHA1-Digest-Manifest: pKtMkBK/88rueyby0h8NyLz6MiU=
+
+Name: patch/system/lib/libfilterfw.so.p
+SHA1-Digest-Manifest: hrggvDadIXeO9HVGfPOwBuzBcec=
+
+Name: patch/system/priv-app/HtcGetStarted.odex.p
+SHA1-Digest-Manifest: VardJtWu4Nul7stZ8QDjypcY6SE=
+
+Name: patch/system/customize/MNS/23210.xml.p
+SHA1-Digest-Manifest: gpdy5o3tuO9fatcCgDictYOwsV4=
+
+Name: system/framework/webviewchromium.jar
+SHA1-Digest-Manifest: UZJehbvhF1BC7S4AKDLL03jFE40=
+
+Name: patch/system/etc/security/otacerts.zip.p
+SHA1-Digest-Manifest: dPxiLjXlCQT+VzDtUAFMiEzni68=
+
+Name: patch/system/app/FMRadioService.apk.p
+SHA1-Digest-Manifest: 61GITb77UlYPs2wCxSw3q0P6GHQ=
+
+Name: patch/system/priv-app/GSD.apk.p
+SHA1-Digest-Manifest: aapp3FOVoiLi1XBSr3B2izHDxUw=
+
+Name: system/customize/clientid/default.prop_HTC__016
+SHA1-Digest-Manifest: Kw9CkyfXm05p0YDhdpIxU7mgtjs=
+
+Name: patch/system/priv-app/ExternalStorageProvider.apk.p
+SHA1-Digest-Manifest: 9mVKvZ8jphMKIvBm8fJxRltJ7+4=
+
+Name: patch/system/lib/libfrsdk.so.p
+SHA1-Digest-Manifest: gpx2AOAfsrfbMs3aHWz2hMOK6jU=
+
+Name: patch/system/priv-app/CustomizationSettingsProvider.odex.p
+SHA1-Digest-Manifest: rNDe0Y9fpPG7Z9PBs8XQasWYXF8=
+
+Name: patch/system/framework/webview/paks/sl.pak.p
+SHA1-Digest-Manifest: CE1F7PvdvZujLdb+lMOSXZ5eqHs=
+
+Name: system/framework/core-junit.jar
+SHA1-Digest-Manifest: NDF+gjaQwMHrx4CckxzbvIPmMQ4=
+
+Name: patch/system/app/Smith.odex.p
+SHA1-Digest-Manifest: AB8Mu6I41WSgmJALbUsa7HlY+kI=
+
+Name: patch/system/app/HtcScreenTimeoutWidget.apk.p
+SHA1-Digest-Manifest: uImMgleeu8sJh02oESbxrFmH+/M=
+
+Name: patch/system/priv-app/HTC_CIR.apk.p
+SHA1-Digest-Manifest: unJQqE/ok0XclZEqmwE3tZTxr58=
+
+Name: patch/system/lib/libHMSGallery_libMatrix.so.p
+SHA1-Digest-Manifest: y80EEYpvGlyOh70lqsJLbrg6O8E=
+
+Name: patch/system/framework/webview/paks/fi.pak.p
+SHA1-Digest-Manifest: 550jkIFMXEKABJWvKMwgeT9X9ms=
+
+Name: patch/system/priv-app/Stock.apk.p
+SHA1-Digest-Manifest: jUJXubL7waZvSDgWfghkhAGTgdw=
+
+Name: patch/system/lib/libfb_filesystem.so.p
+SHA1-Digest-Manifest: UDMh+d5rfYgBWvp+0llyPbW1uj8=
+
+Name: patch/system/priv-app/AndroidHtcSync.odex.p
+SHA1-Digest-Manifest: SEslXiUx8aT8e6weu0lDaYKq3Hs=
+
+Name: data/preload/mattingshotandpaste_stickers_11.png
+SHA1-Digest-Manifest: 2sUza5dGjicpvedi0ZCkUxDarAg=
+
+Name: system/framework/aei.odex
+SHA1-Digest-Manifest: /saRyyARjzx8ZpieA3num3CdEVs=
+
+Name: patch/system/lib/libsurfaceflinger.so.p
+SHA1-Digest-Manifest: iS9qnfD2Wsfu2re+3s5eR9xxq0M=
+
+Name: patch/system/bin/netd.p
+SHA1-Digest-Manifest: fnmpScDKkeRHMuw7AS6jo0vxslY=
+
+Name: patch/system/lib/libOmxVdec.so.p
+SHA1-Digest-Manifest: tZdj6gOi620Jt378lp+P5oDwv0A=
+
+Name: system/etc/security/cacerts/63a2c897.0
+SHA1-Digest-Manifest: VpTehAQzFvo478BlUN3Q19/IZjM=
+
+Name: patch/system/lib/libcompiler_rt.so.p
+SHA1-Digest-Manifest: G6wjwJGzFB3WXQGShz1TcAZI7v4=
+
+Name: system/customize/clientid/default.prop_HTC__032
+SHA1-Digest-Manifest: ymBLvbJfISemtWWQtliAN0X/wMo=
+
+Name: patch/system/app/CertInstaller.apk.p
+SHA1-Digest-Manifest: 6V4QdYVqd7Ik8DVZ4nxJry2ojGk=
+
+Name: patch/system/lib/hw/audio.usb.default.so.p
+SHA1-Digest-Manifest: NsooDkTtzMXnhy5R77tUzpYqgt8=
+
+Name: patch/system/framework/input.odex.p
+SHA1-Digest-Manifest: pTy6g6hUr/jdzidzK7DeTEN58fg=
+
+Name: data/preload/weather_l_snow_day.mp4
+SHA1-Digest-Manifest: t+PIfYZF8qmzeuw3ohwpu2WKZAU=
+
+Name: patch/system/customize/CID/HTC__016.xml.p
+SHA1-Digest-Manifest: kwtfefsEmoD3N1L8/D8q8e2/Gw8=
+
+Name: patch/system/customize/ACC/HTC__J15.xml.p
+SHA1-Digest-Manifest: ChmTEJgpvWGXciffoosaBe8/MM4=
+
+Name: patch/system/lib/hw/audio_policy.default.so.p
+SHA1-Digest-Manifest: JT7Mg4InEbifW8rb8Dv3TWr3P/4=
+
+Name: patch/system/app/IMEXT9Kazakh.odex.p
+SHA1-Digest-Manifest: 3Iy/Xyea5cEt0HOpil+eG+RrMKg=
+
+Name: patch/system/lib/libcamera_client.so.p
+SHA1-Digest-Manifest: GgE1rMj/UnWJfPeXnKxGDltrAeY=
+
+Name: patch/system/framework/webview/paks/sw.pak.p
+SHA1-Digest-Manifest: Rro/bsAYtDcAYB6Bwgibl5Ufbts=
+
+Name: system/priv-app/HtcContactsDialer.apk
+SHA1-Digest-Manifest: K/WIxZxInxkCkdpH75eWHb5dncM=
+
+Name: patch/system/lib/libRScpp.so.p
+SHA1-Digest-Manifest: qmbmxyqzmYgfsRWU3HYKgfugy4Q=
+
+Name: system/customize/clientid/default.prop_HTC__405
+SHA1-Digest-Manifest: 6910hqgj/boK5saggmvRSeRIci0=
+
+Name: patch/system/app/RebootWarningWin.odex.p
+SHA1-Digest-Manifest: R4z47bxFNKJ3LGOQUUbd68hJEL8=
+
+Name: patch/system/framework/apache-xml.odex.p
+SHA1-Digest-Manifest: E+6R47dfROMYic2lhMjDF5UupUs=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest-Manifest: lua6fCLO0TE2c+YNwis0HmHI3dA=
+
+Name: patch/system/lib/hw/audio.primary.msm8960.so.p
+SHA1-Digest-Manifest: pKOnf+q8XmBvn1/Uo8x1TJ4L/sc=
+
+Name: patch/system/lib/libstagefright_httplive.so.p
+SHA1-Digest-Manifest: iIx29O5/me4+9SjF6qCQ4zaSpgk=
+
+Name: system/lib/libm2ts_player.so
+SHA1-Digest-Manifest: cZLfwd3MC3NcuZviV9Tgsnf3538=
+
+Name: patch/system/app/IMEXT9Armenian.odex.p
+SHA1-Digest-Manifest: kElX1XTLu5Yt2bAm8N2xa777oUE=
+
+Name: system/customize/clientid/default.prop_HTC__203
+SHA1-Digest-Manifest: 2Fojt112Nl6h/in1PFzsUdXpJuo=
+
+Name: patch/system/priv-app/Phone.apk.p
+SHA1-Digest-Manifest: mvwGScVbASIBFXCirZ7KVg0WhWY=
+
+Name: patch/system/lib/libprojector.so.p
+SHA1-Digest-Manifest: XujWCpqAQMZkzPFM+PDaRRj6BMY=
+
+Name: patch/system/app/HtcAccessoryService.odex.p
+SHA1-Digest-Manifest: K86Kg2srRV2+TzQbo7m+UmkZuP8=
+
+Name: patch/system/bin/mdnsd.p
+SHA1-Digest-Manifest: vR6O3Mk0JEdcih3UFeb/72wdup0=
+
+Name: patch/system/lib/libChange.so.p
+SHA1-Digest-Manifest: A/8TbRXRVx76rGSPw32grNqIhiU=
+
+Name: patch/system/priv-app/HtcMobileNetworkWidget.apk.p
+SHA1-Digest-Manifest: 2GtKQq7S4Og7fVj9v8tV7YGQjzo=
+
+Name: patch/system/customize/MNS/21403.xml.p
+SHA1-Digest-Manifest: xv2KNgYiqejsHuHzKxTy0X6y9P4=
+
+Name: patch/system/framework/am.odex.p
+SHA1-Digest-Manifest: PJmnW0VpVlikWNVFCl/7r5WNgIQ=
+
+Name: patch/system/bin/mm-qcamera-test.p
+SHA1-Digest-Manifest: ZOHZRQYfDc7wyOqc8moX4VScBH8=
+
+Name: patch/system/bin/asound.p
+SHA1-Digest-Manifest: 6Q4LMHFJc/WHXCSakI2ES6Mslow=
+
+Name: system/priv-app/HtcBrowserProxyProvider.apk
+SHA1-Digest-Manifest: gnowvVGtYEcPMj2KkBzAhSGEdVo=
+
+Name: patch/system/priv-app/CustomAppInstaller.apk.p
+SHA1-Digest-Manifest: czbBiouDMhaZzFOkR52vtup3ZFo=
+
+Name: patch/system/lib/libreflex.so.p
+SHA1-Digest-Manifest: VpJ926kqjC9KIIkR46A9a+VWUaM=
+
+Name: patch/system/app/HtcResetNotify.odex.p
+SHA1-Digest-Manifest: 8WdoMhCuzNZZ6Wcz+0w1ix0vDBg=
+
+Name: patch/system/bin/exfatdebug.p
+SHA1-Digest-Manifest: xYsP+/IoyiKDBTi33tOo2nQblYU=
+
+Name: patch/system/framework/bmgr.odex.p
+SHA1-Digest-Manifest: sBy6JnivrMMgkw3bAC+X6Add2mg=
+
+Name: patch/system/bin/mm-qcamera-daemon.p
+SHA1-Digest-Manifest: E7sX4thYOGfVzv2p+jkZ001qTbU=
+
+Name: patch/system/customize/MNS/420.xml.p
+SHA1-Digest-Manifest: QElphz1rPl4+V2hMBjYOuEnCGjM=
+
+Name: data/preload/mattingshotandpaste_stickers_08.png
+SHA1-Digest-Manifest: VKHKAvxoCnoQOJwHAu1P2yRBMM4=
+
+Name: patch/system/app/HtcReminderViewResource.odex.p
+SHA1-Digest-Manifest: I54Z0qEIKFp9aUTHzfWYGAdjCVE=
+
+Name: data/preload/mattingshotandpaste_stickers_20.png
+SHA1-Digest-Manifest: B4MkO9NlN0AHq4oge10zRBrSw4A=
+
+Name: patch/system/priv-app/CheckinProvider.odex.p
+SHA1-Digest-Manifest: 5ZQO/qd/uqTQGQZCuZOzJzie9eQ=
+
+Name: patch/system/priv-app/CustomAppInstaller.odex.p
+SHA1-Digest-Manifest: 7J2JF2ki16wqFWeP6cbZKa6nCbM=
+
+Name: patch/system/priv-app/HtcDataRoamingWidget.apk.p
+SHA1-Digest-Manifest: U+eCfKduaAwpZs/ADnCmKLRlnvY=
+
+Name: patch/system/app/HTMLViewer.odex.p
+SHA1-Digest-Manifest: ohCtOUudVwLtqhUvfs9stUj4jBc=
+
+Name: system/lib/libjhead.so
+SHA1-Digest-Manifest: jDwfBNsxv+2d3a5VuoynMiLKUbs=
+
+Name: patch/system/app/ChromeWithBrowser.apk.p
+SHA1-Digest-Manifest: TQiD1sMVnBCqNC4/uJ6PJG/ewCs=
+
+Name: patch/system/lib/libqmiservices.so.p
+SHA1-Digest-Manifest: qvIQ1hNRxSoFPD0ZxeeVaZLqSE0=
+
+Name: patch/system/lib/libreflex-jni.so.p
+SHA1-Digest-Manifest: LOhOmeHfQ1dUNSc56WZfCf+fBgE=
+
+Name: patch/system/priv-app/GoogleFeedback.apk.p
+SHA1-Digest-Manifest: 2HyIujxw/BFErDl8rNRRpblbbG0=
+
+Name: patch/system/framework/webview/paks/bg.pak.p
+SHA1-Digest-Manifest: wZviPfbEekQytzBRxkOzCZXlzzI=
+
+Name: system/lib/libgnlocal_lookup.3.3.3.15.so
+SHA1-Digest-Manifest: JUVNkU8JLqHrYxgIeG60iviPi0Y=
+
+Name: patch/system/framework/webview/paks/uk.pak.p
+SHA1-Digest-Manifest: f7S4BXGnqddWKqgJfp29yXffKto=
+
+Name: patch/system/priv-app/HTCRecommend.apk.p
+SHA1-Digest-Manifest: XLUkUuhGg1VZWnNduxH6ubLDTjg=
+
+Name: data/preload/weather_l_cloudy_day.mp4
+SHA1-Digest-Manifest: sWw7dFwNBdgFf0vsF+DMEUNCvfI=
+
+Name: patch/system/priv-app/HtcLocationService.odex.p
+SHA1-Digest-Manifest: hTe36gDpxf16MW7n+CpTwEDs630=
+
+Name: patch/system/priv-app/HMS_Gallery.apk.p
+SHA1-Digest-Manifest: apZbJH7tK769T8tBvb6X2Lq24+k=
+
+Name: patch/system/lib/liboverlay.so.p
+SHA1-Digest-Manifest: NBo3Eg9js/rY6J2x0FLU1F4y+6s=
+
+Name: patch/system/lib/libwebviewchromium_plat_support.so.p
+SHA1-Digest-Manifest: fygZDveOCbVGODE3O/KoSGDXd8M=
+
+Name: patch/system/priv-app/Message.apk.p
+SHA1-Digest-Manifest: DgeLYS74AodaPxWiQgA19naya6g=
+
+Name: patch/system/framework/webview/paks/he.pak.p
+SHA1-Digest-Manifest: s5leZhACyeE60puusr6BwUKpedM=
+
+Name: patch/system/priv-app/HtcDLNAMiddleLayer.odex.p
+SHA1-Digest-Manifest: C5725l5pEE6bIlNhCjO37N4xkp8=
+
+Name: patch/system/framework/com.htc.android.home.res.apk.p
+SHA1-Digest-Manifest: cavAiTP2ENmRu43SQUjuh66y+L4=
+
+Name: patch/system/priv-app/HtcCalendarWidgets.odex.p
+SHA1-Digest-Manifest: gCCBQj6W+SDCAStZkZQi6D6+N6E=
+
+Name: data/preload/weather_partly_cloud_night.mp4
+SHA1-Digest-Manifest: 4sYd3SQMh7nXmOoMDyHbahAkb6c=
+
+Name: data/preload/mattingshotandpaste_stickers_16.png
+SHA1-Digest-Manifest: qS954hL6lG7qV8FW1p+0sPVz274=
+
+Name: patch/system/usr/share/zoneinfo/tzdata.p
+SHA1-Digest-Manifest: P6fAo4mPNbq16ymioOuuea1SVW8=
+
+Name: patch/system/priv-app/HtcModeClient.apk.p
+SHA1-Digest-Manifest: 8H4QPpnOEJjFk5RB3XOS5txvb4k=
+
+Name: patch/system/lib/libnfc_jni.so.p
+SHA1-Digest-Manifest: DUaeG4gm5q5hXsEIQilrwxBmlYg=
+
+Name: patch/system/lib/libRSCpuRef.so.p
+SHA1-Digest-Manifest: rS63VP7/O0J+iIN0n4FQdfMdLAE=
+
+Name: system/customize/clientid/default.prop_HTC__J15
+SHA1-Digest-Manifest: cL8kQz78kDuThKfxiZYdypLLOvg=
+
+Name: patch/system/framework/webview/paks/id.pak.p
+SHA1-Digest-Manifest: 3ZvVub3qZs1drhAdHXYYtY3Arw0=
+
+Name: patch/system/lib/librtp_jni.so.p
+SHA1-Digest-Manifest: tqRcR5R7QlIi1Btfe4zy9NJM0xY=
+
+Name: patch/system/priv-app/VoiceDictation.odex.p
+SHA1-Digest-Manifest: bscXfk5InepEqazyC5e57VDaJM4=
+
+Name: patch/system/customize/ACC/HTC__304.xml.p
+SHA1-Digest-Manifest: A230q5RCiORBgPKKtLr+hxmWIsg=
+
+Name: patch/system/app/IMEXT9Serbian.odex.p
+SHA1-Digest-Manifest: MH9Nrsm4jSxHxWW0b452hHoIqZQ=
+
+Name: patch/system/framework/webview/paks/hr.pak.p
+SHA1-Digest-Manifest: zZXHtpxj4uTslnzEMcUIDRe0lEI=
+
+Name: patch/system/framework/android.policy.odex.p
+SHA1-Digest-Manifest: amwoc+4H+VH/SLTUt/Z5yUGoN18=
+
+Name: patch/system/customize/CID/HTC__001.xml.p
+SHA1-Digest-Manifest: erBwjmpT2Uuu7yqGOeeIwLH05os=
+
+Name: system/framework/voip-common.jar
+SHA1-Digest-Manifest: zMvdD3pfwYVNoooMjGQnTtt8ETI=
+
+Name: patch/system/app/Smith.apk.p
+SHA1-Digest-Manifest: lsF30BuBY8Z4EDIKTW4YchtTDps=
+
+Name: system/framework/framework3.jar
+SHA1-Digest-Manifest: uJC/oHdzeHIjZB0RTpTxJGhc60A=
+
+Name: patch/system/framework/webview/paks/ru.pak.p
+SHA1-Digest-Manifest: oQq0ycnTkPDyHSbdp6nQ0ZU2X7U=
+
+Name: patch/system/lib/libcamerapp.so.p
+SHA1-Digest-Manifest: ES+8QaC15X3g/4YYUebfnqV6HyM=
+
+Name: patch/system/app/PureC_PackageInstaller.odex.p
+SHA1-Digest-Manifest: UAdPCfK8Lks6Fv0KnCE8QcCt1No=
+
+Name: system/lib/libebt_pkttype.so
+SHA1-Digest-Manifest: TO9rlfmzRc22sOyQ66boJOoUsPw=
+
+Name: patch/system/priv-app/Shell.apk.p
+SHA1-Digest-Manifest: T/9wlPYsopk/Ec1gJixCjIV2IKE=
+
+Name: patch/system/customize/CID/HTC__203.xml.p
+SHA1-Digest-Manifest: aPyxLDZV7j7Ut382FtrrIJ6okTY=
+
+Name: patch/system/app/HoloSpiralWallpaper.odex.p
+SHA1-Digest-Manifest: RUo2lMfKoO++CDe66cHIKNtFjRM=
+
+Name: patch/system/customize/ACC/HTC__A07.xml.p
+SHA1-Digest-Manifest: C5M1JjgaG+eGAMMSZ6Kh+++zGDQ=
+
+Name: patch/system/bin/mkexfat.p
+SHA1-Digest-Manifest: dRyp73fsc6WMetgIVd8ExozfbLs=
+
+Name: patch/system/customize/ACC/HTC__405.xml.p
+SHA1-Digest-Manifest: h2u3Y+7j//0IAFY+i2s0v72icRw=
+
+Name: patch/system/priv-app/Video_Center.apk.p
+SHA1-Digest-Manifest: Lc9zKzDApiLg8x2rj7RQ6BQf14c=
+
+Name: patch/system/bin/clatd.p
+SHA1-Digest-Manifest: raywQVbHKfCYA64vb98Qx3jUgNk=
+
+Name: patch/system/etc/obb/com.htc.videohighlights.obb.p
+SHA1-Digest-Manifest: ChPbvT4zxeTkbnlATffeRN5dzjI=
+
+Name: patch/system/framework/webview/paks/kn.pak.p
+SHA1-Digest-Manifest: VCGPGl4fuz3bZ4GRouihURLy+qE=
+
+Name: patch/system/priv-app/Prism.apk.p
+SHA1-Digest-Manifest: dQGwBii86yWg9prvFPZ3WZ55WQA=
+
+Name: patch/system/customize/MNS/63102.xml.p
+SHA1-Digest-Manifest: lJUsdGbFf5AKdHG86mbhfWy2Ljs=
+
+Name: patch/system/lib/hw/hwcomposer.msm8960.so.p
+SHA1-Digest-Manifest: /PXE1Vv7lAXWByoD6DUflIrh9oM=
+
+Name: patch/system/framework/media_cmd.odex.p
+SHA1-Digest-Manifest: VUam9Q+mnW1RZoOelBfHLjDlJFA=
+
+Name: patch/system/lib/libandroid_runtime.so.p
+SHA1-Digest-Manifest: DYJJn4GzwsfWf2CqWhxngqTRIN0=
+
+Name: patch/system/lib/liboemcamera.so.p
+SHA1-Digest-Manifest: PwA9SJxoQg6BJwSDTq827P83GK4=
+
+Name: patch/system/bin/tc.p
+SHA1-Digest-Manifest: sMrbnxneKP8DxMve4p/tfz+W5Hk=
+
+Name: patch/system/app/IMEXT9English.odex.p
+SHA1-Digest-Manifest: JE2jlQV4kEY6nQBOB55woWx4JnU=
+
+Name: system/framework/com.orange.authentication.simcard.jar
+SHA1-Digest-Manifest: yMEvuXbiUrZJEiP5LnKGTaImrbE=
+
+Name: system/lib/libgntransition_detector.3.3.3.15.so
+SHA1-Digest-Manifest: pYZVPMwdi0P+maj+emF9DOjcHio=
+
+Name: patch/system/framework/org.simalliance.openmobileapi.odex.p
+SHA1-Digest-Manifest: U+vdunYq1AdiO+zSKeP499m/IYY=
+
+Name: patch/system/app/VisualizationWallpapers.apk.p
+SHA1-Digest-Manifest: OW9wNTEsM6C8R+RdNWXTFxkSFvA=
+
+Name: patch/system/app/CloudPrint.apk.p
+SHA1-Digest-Manifest: hb1Y6S0HjlFPo5FUQEeAPsS5vaw=
+
+Name: patch/system/app/PacProcessor.odex.p
+SHA1-Digest-Manifest: mb1LG41kPEZ/hti8ra1vyAnK8Tw=
+
+Name: patch/system/bin/shutdown.p
+SHA1-Digest-Manifest: qL9T5cmkJAk1d2lGf6ms1WApCsU=
+
+Name: patch/system/lib/libDTCPIPCryptoBox.so.p
+SHA1-Digest-Manifest: jQ+HXxbV4Lj9PW8NPiC+z0dCCTA=
+
+Name: patch/system/lib/hw/audio.mirrorlink.default.so.p
+SHA1-Digest-Manifest: fVnVwTl2Jr8AV+KgiV15FYNFjoc=
+
+Name: patch/system/framework/ext.jar.p
+SHA1-Digest-Manifest: y+g4fvzqCA7j3Y1w6jqQGy5BF08=
+
+Name: patch/system/lib/libwebcore.so.p
+SHA1-Digest-Manifest: rlZ8LQG2gRrEJ2Cmh0HkHMUMfyo=
+
+Name: patch/system/priv-app/HtcWiFiWidget.odex.p
+SHA1-Digest-Manifest: 5yblZOyErr2D71HQmaBadX/KL5Y=
+
+Name: patch/system/lib/libmllite.so.p
+SHA1-Digest-Manifest: JzJbhSkVI1eaWZSQl6L/Fn6EJjI=
+
+Name: patch/system/priv-app/Browser.apk.p
+SHA1-Digest-Manifest: 2haoRTrMbObg6PnNK15GSYCjiwg=
+
+Name: data/preload/weather_l_windy_day.mp4
+SHA1-Digest-Manifest: q6XgI9oql+YRq8m7BVFV8rbdTpk=
+
+Name: system/etc/security/cacerts/a2df7ad7.0
+SHA1-Digest-Manifest: mzM6eUZEHgEroZy3SW146TB5i6E=
+
+Name: patch/system/priv-app/LauncherUpdateScreen.apk.p
+SHA1-Digest-Manifest: VsHsS0jiFM+Fscxg8aIudioAcAE=
+
+Name: patch/system/lib/libjnigraphics.so.p
+SHA1-Digest-Manifest: gMr1/MdyATdue8/ExKd2ZgGa/5c=
+
+Name: patch/system/priv-app/LocationPicker.apk.p
+SHA1-Digest-Manifest: FO1j72qfJD879+vm/5S4BnLoOgE=
+
+Name: patch/system/lib/libfb_tracker.so.p
+SHA1-Digest-Manifest: W4b0ISkRdKz0CxxAaKcIr+kT8RU=
+
+Name: patch/system/customize/CID/HTC__Y13.xml.p
+SHA1-Digest-Manifest: hRovYzCWBExjXoVXmtpKGAHLX7c=
+
+Name: patch/system/app/HtcBluetoothLeProfiles.apk.p
+SHA1-Digest-Manifest: u/r+oPNXX4mVAELIdrX4pndqRqo=
+
+Name: patch/system/lib/modules/lcd.ko.p
+SHA1-Digest-Manifest: 31H4Ubg23AZIMgHCwqo9+VesW9g=
+
+Name: system/lib/libebt_mark_m.so
+SHA1-Digest-Manifest: Ob72mG7ib23ob8VIz52r/3XVRc0=
+
+Name: system/lib/libgnmc_decoder.3.3.3.15.so
+SHA1-Digest-Manifest: j177qzwqe2GOAOWCiJXaYdSpycw=
+
+Name: patch/system/customize/MNS/28001.xml.p
+SHA1-Digest-Manifest: Ok0t2CO9iCR5/3WdfVgmxRtwjaY=
+
+Name: patch/system/bin/qseecomd.p
+SHA1-Digest-Manifest: sbC0o/DV5QxJtt111XFNrXHWx8I=
+
+Name: patch/system/app/IMEXT9Czech.odex.p
+SHA1-Digest-Manifest: kwdYLeGVftXxt72f5LfaihxvqYo=
+
+Name: patch/system/lib/libloc_api_v02.so.p
+SHA1-Digest-Manifest: xRWFvCErkG+Ug+pQias3oOMuojM=
+
+Name: patch/system/priv-app/Transfer.odex.p
+SHA1-Digest-Manifest: 8jn3H073T635DS4ivXi8TQ8JQ4Q=
+
+Name: patch/system/lib/libgemini.so.p
+SHA1-Digest-Manifest: bP8s+zeD3JX0ywRMwAnULsNsTAE=
+
+Name: patch/system/vendor/lib/libOpenVG.so.p
+SHA1-Digest-Manifest: RSka6J9Aq1qAXBuZPQB2ZbKCp70=
+
+Name: patch/system/app/Books.apk.p
+SHA1-Digest-Manifest: BDEDXLxEveSmxT7pf61m22e+rio=
+
+Name: patch/system/priv-app/LocationPicker.odex.p
+SHA1-Digest-Manifest: rN/+8I9lHtWV8vD3QVbHS6acACU=
+
+Name: patch/system/priv-app/HtcCompressViewer.apk.p
+SHA1-Digest-Manifest: cplRDSeGzFJHL0lqRH8ML5PITps=
+
+Name: patch/system/priv-app/GoogleBackupTransport.apk.p
+SHA1-Digest-Manifest: EiBcgHD7oo7w19B/5gJoeWJz/pM=
+
+Name: patch/system/app/HtcPowerStripWidget.odex.p
+SHA1-Digest-Manifest: FOk0KC/XGOyU2hv8LgBE3H42dPc=
+
+Name: patch/system/framework/com.htc.android.bluetooth.odex.p
+SHA1-Digest-Manifest: R5A6j6mQRcBLg3I2vOM+yz6Z6vg=
+
+Name: patch/system/framework/webview/paks/es.pak.p
+SHA1-Digest-Manifest: pjwFJa0oGRlkL5TOSvfbQFWb5eY=
+
+Name: patch/system/app/HtcBackupReset.odex.p
+SHA1-Digest-Manifest: RYIZYpLYVoVjxPiqeXsPUXip7nA=
+
+Name: patch/system/priv-app/Keyguard.apk.p
+SHA1-Digest-Manifest: yw7Shxue7xsx/BL4qZcoGq+jHzU=
+
+Name: patch/system/lib/libhtc_loglevel.so.p
+SHA1-Digest-Manifest: gsh2WXAKYdHHBOiGKE4Yttu1528=
+
+Name: patch/system/app/HtcScreenBrightnessWidget.odex.p
+SHA1-Digest-Manifest: rA5r/o2XxSqsBLYmNFyDHuULIUY=
+
+Name: patch/system/bin/ois_camera.p
+SHA1-Digest-Manifest: c/Q1GTjqCxg1YIafzj6MuUkJgCY=
+
+Name: system/lib/libebt_log.so
+SHA1-Digest-Manifest: 8YrXcjhzlDRQ9Zg7FUjKCGt+pDU=
+
+Name: data/preload/weather_windy_night.mp4
+SHA1-Digest-Manifest: ataMmVIRbDnTMDGdHtXcsPkBMw0=
+
+Name: system/bin/ebtables
+SHA1-Digest-Manifest: PQ+4wF69w9r/AMBSNk06AOm1Zn0=
+
+Name: system/framework/com.broadcom.bt.jar
+SHA1-Digest-Manifest: xCVAL155Om4YhFA1CH9LkGS8zZY=
+
+Name: patch/system/priv-app/DrawingBoard.apk.p
+SHA1-Digest-Manifest: 4g2nJU3vwaCP4+kT1XJrFyOdE18=
+
+Name: patch/system/customize/MNS/23806.xml.p
+SHA1-Digest-Manifest: DoOB/0bns7yHQXTiXh/oYT/DnTg=
+
+Name: patch/system/lib/hw/keystore.msm8960.so.p
+SHA1-Digest-Manifest: SqmDjuZ8ZzeksDiyN2CT5eGJe/8=
+
+Name: patch/system/app/HtcSyncWidget.odex.p
+SHA1-Digest-Manifest: kQ13FYbh8bTfnQ6uKFqlqLZ86jU=
+
+Name: patch/system/priv-app/SMSBackup.odex.p
+SHA1-Digest-Manifest: lWRLZXJuWM192aDGjzvDQxMdOt0=
+
+Name: patch/system/bin/cnd.p
+SHA1-Digest-Manifest: rfL9s5m6B9UUIjmdD9nukZm0/vE=
+
+Name: patch/system/app/HtcBackgroundDataWidget.apk.p
+SHA1-Digest-Manifest: tmqoTvmg+9NV9EZ81opY+xutm6o=
+
+Name: patch/system/lib/libril.so.p
+SHA1-Digest-Manifest: Eu+rs4ZcyX1pkNguWxSZVuRnG8c=
+
+Name: patch/system/framework/com.htc.browsermodule.res.apk.p
+SHA1-Digest-Manifest: CQPm3IiKGYjz7vw4B+Kzw+fCFPg=
+
+Name: data/preload/HTC__Y13.xml
+SHA1-Digest-Manifest: 6uNkxp4byrOUK8pfEAZmy8mLWqE=
+
+Name: patch/system/app/IMEXT9Norwegian.odex.p
+SHA1-Digest-Manifest: G+pv9Tq1byAcb50WZKBaGhmFDI8=
+
+Name: system/framework/android.policy.jar
+SHA1-Digest-Manifest: kqQE0xo68W5DvLNJXHu4Sxqrceo=
+
+Name: patch/system/priv-app/NeroHTCInstaller.odex.p
+SHA1-Digest-Manifest: 9EuVPYrPwCzweu4BSBOK2CKVasE=
+
+Name: patch/system/app/LiveWallpapers.apk.p
+SHA1-Digest-Manifest: gt13nQH5IrAizFfoGVWbiBnqGm4=
+
+Name: system/lib/libebt_ip.so
+SHA1-Digest-Manifest: XqY2cyI4ehQuXS+meaHUctTefc8=
+
+Name: patch/system/bin/flash_camera.p
+SHA1-Digest-Manifest: 56ivWBZWlcVRZqGBY9jqUYrtsn4=
+
+Name: patch/system/priv-app/HTCZero.odex.p
+SHA1-Digest-Manifest: QL9vre56ysf3Mzvzug7cQbDgYoY=
+
+Name: patch/system/customize/MNS/21407.xml.p
+SHA1-Digest-Manifest: i11Vf3RdUIksTezqnwJzqFPqALQ=
+
+Name: patch/system/lib/libbcc.so.p
+SHA1-Digest-Manifest: GTpIF05iMavDu9101OGx6uLhQk4=
+
+Name: patch/system/framework/webview/paks/lv.pak.p
+SHA1-Digest-Manifest: EuVlw1ECBkjGPp4hLsos3Y9cyaU=
+
+Name: patch/system/customize/MNS/22201.xml.p
+SHA1-Digest-Manifest: rtEtszIz8uKoCoz0txzRc1hecZI=
+
+Name: patch/system/priv-app/HtcCalendarWidgets.apk.p
+SHA1-Digest-Manifest: PFHmnfrG2eXhvnGrL89m0RCnAZo=
+
+Name: data/preload/weather_fog_night.mp4
+SHA1-Digest-Manifest: dy4uHiRjibXTpzAsQP5FcFIpoPY=
+
+Name: system/app/com.htc.mobiledata.odex
+SHA1-Digest-Manifest: m3oyswumYfpFB65YQPKJp310big=
+
+Name: data/preload/Flashlight.apk
+SHA1-Digest-Manifest: TdqJ8tBjefuEXuHCFiFfVM6uNMg=
+
+Name: patch/system/app/CertInstaller.odex.p
+SHA1-Digest-Manifest: YBqR45UQSY2VYdCF5K+RdCt4yN4=
+
+Name: data/preload/HTC__304.xml
+SHA1-Digest-Manifest: CF0XCOFXtiFZUoVRLGMm/HR2rSw=
+
+Name: patch/system/lib/libdvm.so.p
+SHA1-Digest-Manifest: J68unI7Kjfwn+uXUNi6ORIOydVI=
+
+Name: patch/system/lib/libjavacore.so.p
+SHA1-Digest-Manifest: MbBZtakK7Kqfs6B5aYJ1WkMbXAI=
+
+Name: patch/system/customize/MNS/250.xml.p
+SHA1-Digest-Manifest: Ek0u5ODJc4wYyLzx62BYsU8Ts64=
+
+Name: patch/system/lib/modules/qce40.ko.p
+SHA1-Digest-Manifest: xRCqO2f8wZIjjQ4VHb5aO4wDGl8=
+
+Name: patch/system/lib/libfb_breakpad_client.so.p
+SHA1-Digest-Manifest: bQPmSqrg7PK8FY3l/kRwjCSWmi4=
+
+Name: patch/system/app/UDove.apk.p
+SHA1-Digest-Manifest: +WN1hQzINJpcQvVgxJdn1CJPGJs=
+
+Name: patch/system/lib/libfacelock_jni.so.p
+SHA1-Digest-Manifest: nd4Z2ilkzMSpv3PNvIro09quRRQ=
+
+Name: patch/system/lib/libstagefright_soft_aacdec.so.p
+SHA1-Digest-Manifest: chOdWs5T5Xb2vNEMV9DQJaIltSc=
+
+Name: patch/system/vendor/lib/egl/libGLESv2S3D_adreno.so.p
+SHA1-Digest-Manifest: tjE7os+JOQJfh0W070uPZHNcURY=
+
+Name: patch/system/lib/libmtp.so.p
+SHA1-Digest-Manifest: 4W+ZFZjyiskErDz4Lj6hKh0cEGk=
+
+Name: patch/system/framework/bouncycastle.odex.p
+SHA1-Digest-Manifest: hknrgJdqJWYnaY3m3zULQOhw9kE=
+
+Name: patch/system/app/PlayGames.apk.p
+SHA1-Digest-Manifest: trxxajXksW2VaXN5ASRFXontGG8=
+
+Name: patch/system/lib/libLLVM.so.p
+SHA1-Digest-Manifest: EABzGI6L5xIM9/5lTJ8BUllCrw4=
+
+Name: patch/system/bin/akmd.p
+SHA1-Digest-Manifest: 4z+SLe1bDy85Ce57VsZdjbOFc1g=
+
+Name: patch/system/lib/libmediaplayerservice.so.p
+SHA1-Digest-Manifest: SXfSXd3w7fYZr1lICKgB8ueWEmk=
+
+Name: patch/system/vendor/lib/libsc-a3xx.so.p
+SHA1-Digest-Manifest: vu/uC9bmUG/K/9+Gkkdd7VNXDR0=
+
+Name: patch/system/framework/webview/paks/vi.pak.p
+SHA1-Digest-Manifest: wqElkIjvFaPitlvR+peGF1Lq+Gc=
+
+Name: patch/system/lib/libpolarisoffice5.so.p
+SHA1-Digest-Manifest: yrY81pAneHzziLziGDG1ogHYxx8=
+
+Name: data/preload/mattingshotandpaste_stickers_22.png
+SHA1-Digest-Manifest: 6D4qYAl6h1AfKIzOwqMucW5TxcM=
+
+Name: system/framework/HTCCommonctrl.jar
+SHA1-Digest-Manifest: Yh1jiU3aYXKdDM3japmz8vDIKXA=
+
+Name: patch/system/priv-app/HtcPowerManager.apk.p
+SHA1-Digest-Manifest: z3HKDfTlPwYyLehVZ5c12IGGBhk=
+
+Name: patch/system/priv-app/FilePicker.apk.p
+SHA1-Digest-Manifest: ohk4bV/NCWLjtZAbg7TwytvNUj0=
+
+Name: patch/system/lib/libmmcamera_interface2.so.p
+SHA1-Digest-Manifest: XS9lQJquJkBOWB1NrHEtI+B7bIk=
+
+Name: system/etc/security/cacerts/33815e15.1
+SHA1-Digest-Manifest: OscR6Y1sC01xA7qRmF07iKgm8AQ=
+
+Name: patch/system/lib/libposteffect.so.p
+SHA1-Digest-Manifest: IgFSg6vUODIcCxWeyEgdFReBUkU=
+
+Name: patch/system/vendor/lib/libOpenCL.so.p
+SHA1-Digest-Manifest: cGu0jfs1iDgJjhXQSpxRWAqdL9w=
+
+Name: patch/system/lib/libOmxVenc.so.p
+SHA1-Digest-Manifest: O9yE2x9SBm4AQMjn3xYJW7yhKRI=
+
+Name: patch/system/customize/MNS/228.xml.p
+SHA1-Digest-Manifest: K0121k7bT2jxmfQbaWbLjEUzsuw=
+
+Name: patch/system/priv-app/HtcDLNAMiddleLayer.apk.p
+SHA1-Digest-Manifest: MDT9qGtTELfDeuyNOXa/TbNQjbw=
+
+Name: patch/system/customize/MNS/28010.xml.p
+SHA1-Digest-Manifest: T886QebOUWDoy1VvNnAyaX6p3K4=
+
+Name: patch/system/priv-app/FM_Radio.odex.p
+SHA1-Digest-Manifest: /egZv6tbVGNTE2jxXUrftcbacmU=
+
+Name: patch/system/priv-app/HtcRingtoneTrimmer.apk.p
+SHA1-Digest-Manifest: GXY4STPMfgFF3WLQs/qBDs4lWwA=
+
+Name: patch/system/framework/webview/paks/lt.pak.p
+SHA1-Digest-Manifest: C4n6xCyKnaj/WONsfIGr6ilg8Mw=
+
+Name: patch/system/lib/libcryptox.so.p
+SHA1-Digest-Manifest: GtmklktYa/uXzj7bTcjnttrKnso=
+
+Name: patch/system/etc/permissions/com.htc.software.market.xml.p
+SHA1-Digest-Manifest: Zopijv6bQym/YK/thGEQdivzD9U=
+
+Name: patch/system/app/NoiseField.apk.p
+SHA1-Digest-Manifest: gXDjxk8X5Ycym3x1FT9ZjmLcXCU=
+
+Name: patch/system/framework/HTCExtension.odex.p
+SHA1-Digest-Manifest: 47arQRBn9k4IxwBAzbUEJhpSXA0=
+
+Name: data/preload/weather_l_sunny.mp4
+SHA1-Digest-Manifest: AK7XiDhh7mODmylHFhdxyYShq4E=
+
+Name: patch/system/framework/webview/paks/en-US.pak.p
+SHA1-Digest-Manifest: RAtT0Amc/9mZ7Bpp8qXkM/Hj100=
+
+Name: patch/system/lib/libnbaio.so.p
+SHA1-Digest-Manifest: XnVAOoH/rIGpb5hPr8eghpF2EMw=
+
+Name: patch/system/app/HtcCupd.odex.p
+SHA1-Digest-Manifest: G+6kf7BnzLJHqkTZqaKOxQfTwmE=
+
+Name: patch/system/framework/com.htc.resources.apk.p
+SHA1-Digest-Manifest: a7zMs3hfNbb8FCPmqX+sbnhNY9o=
+
+Name: data/preload/mattingshotandpaste_stickers_23.png
+SHA1-Digest-Manifest: 7rXRzlC+dt5tPgiaMPDjrsmqYZY=
+
+Name: system/framework/com.android.location.provider.jar
+SHA1-Digest-Manifest: KX1lQh7m5Kl9cHl+67pcMj0SjjM=
+
+Name: data/preload/weather_l_fog_day.mp4
+SHA1-Digest-Manifest: uivYPxCTKw+SUYJxSIxsQBZm0uU=
+
+Name: patch/system/priv-app/HtcMediaUploader.odex.p
+SHA1-Digest-Manifest: 9ST+SnIRhtXknCJMYf3mLsQSxXA=
+
+Name: data/preload/HTC__A07.xml
+SHA1-Digest-Manifest: 5LOAlPn82YDCG7AWxYSwrS1JlCY=
+
+Name: patch/system/framework/webview/paks/am.pak.p
+SHA1-Digest-Manifest: +YYJdDgzEubSmvVPnBR8ljUmUbA=
+
+Name: patch/system/bin/ks.p
+SHA1-Digest-Manifest: JI2+AWsQPj3qjefgDTUHvmTYG7c=
+
+Name: patch/system/lib/libhtc_framework.so.p
+SHA1-Digest-Manifest: IvB4A6BEOWbSPoFrJRaXfxMIDCQ=
+
+Name: data/preload/mattingshotandpaste_stickers_31.png
+SHA1-Digest-Manifest: ntLDF56etI9zc84C4zQi7lEa+Io=
+
+Name: patch/system/app/IMEXT9Farsi.odex.p
+SHA1-Digest-Manifest: 9Y4mhV0NnzSJl9FFRXPZzhJVqm0=
+
+Name: patch/system/lib/libwebp.so.p
+SHA1-Digest-Manifest: aO8PMp2qKRKa29sRcnaftrMg8gc=
+
+Name: patch/system/priv-app/WallpaperCropper.odex.p
+SHA1-Digest-Manifest: ZwdsVE4PihyGdBhqvcoGjIVQyok=
+
+Name: patch/system/framework/webview/paks/zh-TW.pak.p
+SHA1-Digest-Manifest: c8zh2ST29lU+avDDWLHL/R/Q2NA=
+
+Name: patch/system/vendor/lib/libllvm-a3xx.so.p
+SHA1-Digest-Manifest: g9Wmpt+1SsFrhXJpH8POauUtO0M=
+
+Name: system/framework/requestsync.jar
+SHA1-Digest-Manifest: eEekIdq7wZuG2CCULTOc+MM7fAI=
+
+Name: patch/system/framework/webview/paks/th.pak.p
+SHA1-Digest-Manifest: n31s+p0bMripCb9PnS85YV2ZYIM=
+
+Name: patch/system/lib/soundfx/libeffectproxy.so.p
+SHA1-Digest-Manifest: N7wMAYfOcRfYr3Bg96AtQTaVs6k=
+
+Name: patch/system/priv-app/HTC_IME.apk.p
+SHA1-Digest-Manifest: Owz38NZk/yf+6NrD6CtAwu16CJc=
+
+Name: patch/system/priv-app/Tips_Help.odex.p
+SHA1-Digest-Manifest: Mh36O6HJ+s9YcyrVqeMMdVhE5lc=
+
+Name: patch/system/lib/hw/lights.msm8960.so.p
+SHA1-Digest-Manifest: q74kva+741AM0On1OyqpBpcpk0A=
+
+Name: patch/system/app/IMEXT9Slovenian.odex.p
+SHA1-Digest-Manifest: NuXvvq8VsOgT7xbSfonItcF6n90=
+
+Name: patch/system/app/GoogleContactsSyncAdapter.apk.p
+SHA1-Digest-Manifest: FBLxByNbkmA8037gOny2XzJkgdg=
+
+Name: patch/system/framework/requestsync.odex.p
+SHA1-Digest-Manifest: yd1nPjor2AJ8IlA8tX7NLGh+4es=
+
+Name: patch/system/lib/libgcastv2_base.so.p
+SHA1-Digest-Manifest: CoWAPwSNsQBJNhSgIdJAlJiHki8=
+
+Name: patch/system/priv-app/LinkedIn_Fsplugin.odex.p
+SHA1-Digest-Manifest: 3/exnuDHzqbvmG2EDgzamVZCnDI=
+
+Name: patch/system/lib/libvariablespeed.so.p
+SHA1-Digest-Manifest: 28FhxjzjNyjg+UR9JwSMS3YIdrQ=
+
+Name: system/lib/libebt_ip6.so
+SHA1-Digest-Manifest: BNSXhIB2IZ8kSy9npDdfSFp43sM=
+
+Name: patch/system/app/HtcAutoRotateWidget.apk.p
+SHA1-Digest-Manifest: 7J1i1R+W6tMSAQq5EZg2SBGMhJo=
+
+Name: patch/system/framework/webview/paks/te.pak.p
+SHA1-Digest-Manifest: hmXnBeyHcJV3IqJJTXloUrUmP/E=
+
+Name: data/preload/SevenDigital.apk
+SHA1-Digest-Manifest: YelcMRKkKi7EOawQ8Gq2gydEToA=
+
+Name: patch/system/app/HTCBackup.odex.p
+SHA1-Digest-Manifest: BMyukV4hgJYOzUCd6b2L2SghLdw=
+
+Name: patch/system/framework/webview/paks/mr.pak.p
+SHA1-Digest-Manifest: DGWPS541eXHCxfkanw+4HF8HfxE=
+
+Name: patch/system/lib/libqmi.so.p
+SHA1-Digest-Manifest: +oWCcZZ1FNv6ZHEicsZJSyaFqWg=
+
+Name: patch/system/framework/webview/paks/gu.pak.p
+SHA1-Digest-Manifest: kuxxAiSmsH2HMH3o8kI9QNaRfcY=
+
+Name: patch/system/app/UserDictionaryProvider.apk.p
+SHA1-Digest-Manifest: mEb8Q6Tli9zjQNOq3OUl7rV7bW8=
+
+Name: patch/system/priv-app/InputDevices.apk.p
+SHA1-Digest-Manifest: viQvG2tFoWKfntF4HlrtSsrdJ0Y=
+
+Name: data/preload/mattingshotandpaste_stickers_09.png
+SHA1-Digest-Manifest: fhD3qMGI5xGemnUZIfiI0IGn8sc=
+
+Name: system/framework/com.htc.musicvismodule.jar
+SHA1-Digest-Manifest: nyUY2RROuwuCV92vtJVhUL3q9/g=
+
+Name: patch/system/etc/.demoflo/Demo.apk.p
+SHA1-Digest-Manifest: HoUaJc48sdUpXLLmBJLdcG5klck=
+
+Name: patch/system/priv-app/HtcVideoPlayer.odex.p
+SHA1-Digest-Manifest: EiQwBLBXfgUu4Fok41/lnrqnMz8=
+
+Name: patch/system/app/IMEXT9Slovak.odex.p
+SHA1-Digest-Manifest: q87hPebs1mCUogSXw8dX+5NHBmQ=
+
+Name: patch/system/framework/framework2.odex.p
+SHA1-Digest-Manifest: U4bcf8l+ywuDYwc2VZIKGcgE61A=
+
+Name: patch/system/etc/media_profiles.xml.p
+SHA1-Digest-Manifest: IiTUYE80Xxs6Xy49VOjH3Hg1kr0=
+
+Name: patch/system/framework/webview/paks/pl.pak.p
+SHA1-Digest-Manifest: BpNi4z1rsMlf0C0IkBHGmipPyYk=
+
+Name: patch/system/lib/libWVphoneAPI.so.p
+SHA1-Digest-Manifest: MNCLPUj/nbXt/6RvJUSp2TMcIXg=
+
+Name: patch/system/priv-app/Stk.apk.p
+SHA1-Digest-Manifest: O116mr3O0tn8id66a26jDjpDoig=
+
+Name: patch/system/lib/libimage-jpeg-dec-omx-comp.so.p
+SHA1-Digest-Manifest: gmtNBRO027j2I19ROcMScmdN75A=
+
+Name: system/lib/libebt_arp.so
+SHA1-Digest-Manifest: ajSrWQpDFGvs1TdOAM08kurpuGY=
+
+Name: patch/system/customize/resource/hTC_bootup_one.zip.p
+SHA1-Digest-Manifest: iPP10yKQeoPKFa7DEmYg8f4eE+0=
+
+Name: patch/system/priv-app/ContactsProvider.apk.p
+SHA1-Digest-Manifest: gMJpSIbc/g5sfn6ZFkC5KvyvhSE=
+
+Name: patch/system/priv-app/CalendarProvider.odex.p
+SHA1-Digest-Manifest: 1KWjss3N0N1xPCKDt2ohVGc81bk=
+
+Name: patch/system/app/CIMEXT9.apk.p
+SHA1-Digest-Manifest: ELP28n8vI1SY1Ld6IZjVFIutGpM=
+
+Name: patch/system/customize/MNS/65507.xml.p
+SHA1-Digest-Manifest: yIZSVjK77Wn0MvNOvBcXE04JKpw=
+
+Name: patch/system/lib/libBeautyChat.so.p
+SHA1-Digest-Manifest: ZrbnHJBB4QyYBO6Wies8z/MfKk0=
+
+Name: patch/system/app/HtcScreenTimeoutWidget.odex.p
+SHA1-Digest-Manifest: Jvl3dzBje/9hqDxoubHunNRyb1k=
+
+Name: system/framework/com.htc.android.bluetooth.jar
+SHA1-Digest-Manifest: hv3RuhcZ/41U0X8yoGuDCSdmDzo=
+
+Name: patch/system/framework/webview/paks/nb.pak.p
+SHA1-Digest-Manifest: m7kVA34ddpTt1EJd/ZG/kRjDhJI=
+
+Name: system/lib/libgnmc_aactag.3.3.3.15.so
+SHA1-Digest-Manifest: SAJ+RRIbHUPiBdfqq8/80GYVwug=
+
+Name: system/lib/libframesequence.so
+SHA1-Digest-Manifest: 8d1gn0Z2BiHXtr2NZAL63CZsOGI=
+
+Name: patch/system/framework/webview/paks/ko.pak.p
+SHA1-Digest-Manifest: CZklnuQmNmkld25TyKCSuQIVVCI=
+
+Name: patch/system/customize/resource/icon_launcher_yahoo.png.p
+SHA1-Digest-Manifest: OqMgNYcEy2yM/3ZpHOR/Z/n3LRg=
+
+Name: patch/system/customize/CID/HTC__A07.xml.p
+SHA1-Digest-Manifest: WUhmdmOfbzGa70z1jl5n8orepRc=
+
+Name: patch/system/lib/libeffects.so.p
+SHA1-Digest-Manifest: QofTtfIZ1mGHv5na3pA5SwnIKQQ=
+
+Name: patch/system/app/IMEXT9Latvian.odex.p
+SHA1-Digest-Manifest: BZ3eJ96HMMXzurQo8aBk/heSkLU=
+
+Name: patch/system/priv-app/DemoFLOPackageInstaller.apk.p
+SHA1-Digest-Manifest: qIwDLSh3DjGt4G13S13EgKC/U/M=
+
+Name: patch/system/priv-app/SystemUI.apk.p
+SHA1-Digest-Manifest: HOTQZLkkG44ocJPD9zKpAVKWQ+g=
+
+Name: patch/system/lib/libgoogle_hotword_jni.so.p
+SHA1-Digest-Manifest: wVhMV3Ga/NwL5lnHgYZs5u0nlxk=
+
+Name: patch/system/usr/keychars/Generic.kcm.p
+SHA1-Digest-Manifest: 0y1Bi++nfvZHZJg6kBsxShXiwCw=
+
+Name: data/preload/weather_l_windy_night.mp4
+SHA1-Digest-Manifest: 1x+Irh9cRhIoUYwcgNZViAk2Ywk=
+
+Name: patch/system/priv-app/Calendar.apk.p
+SHA1-Digest-Manifest: kTcH2B2ZVDjb8odz/CaP3DnRqTk=
+
+Name: patch/system/priv-app/Keyguard.odex.p
+SHA1-Digest-Manifest: W+tcUu7Dld7yOojVcgzc6DA7N0U=
+
+Name: patch/system/priv-app/SharedStorageBackup.apk.p
+SHA1-Digest-Manifest: v2Yfy0eGSzFb5ATl8MZ6i2PikRo=
+
+Name: patch/system/bin/vold.p
+SHA1-Digest-Manifest: AuUd6LHWnR+LhPKnK11K/la91+I=
+
+Name: patch/system/lib/modules/qcrypto.ko.p
+SHA1-Digest-Manifest: 4qviYBY60iAskBaF5BSPUtyOVTg=
+
+Name: patch/system/lib/libvorbisidec.so.p
+SHA1-Digest-Manifest: bQUABafSl/kRouos9/KgzHL1Reg=
+
+Name: patch/system/priv-app/CustomizationSetup.odex.p
+SHA1-Digest-Manifest: 3cWelom7ic42Yv7o8G7F4/Cegpc=
+
+Name: patch/system/customize/MNS/20210.xml.p
+SHA1-Digest-Manifest: l/xGCklKY5nnJ7UgFEHqJ56QEdU=
+
+Name: patch/system/app/Nfc.apk.p
+SHA1-Digest-Manifest: NFeIZ67zSkVhohLW+req2dJ1+P8=
+
+Name: patch/system/lib/hw/audio.primary.default.so.p
+SHA1-Digest-Manifest: F4ZmrrnZKIOB50kjj8X/hBZSEyU=
+
+Name: patch/system/lib/libfb_dalvik-internals.so.p
+SHA1-Digest-Manifest: kBLp+GKzy5/DbXSFMPFYEYkp0/g=
+
+Name: patch/system/lib/libRSSupport.so.p
+SHA1-Digest-Manifest: yNdLBrYHodAluVvmQidRIo2hHMU=
+
+Name: patch/system/priv-app/HtcMusicWidget.apk.p
+SHA1-Digest-Manifest: 9HARHRIGGgUy/rgqJkXZpg3P7cU=
+
+Name: patch/system/priv-app/AndroidHtcSync.apk.p
+SHA1-Digest-Manifest: dCqlAVpFloMV4vZrFBQNeaB8yzo=
+
+Name: patch/system/app/IMEXT9Swedish.odex.p
+SHA1-Digest-Manifest: ufH2Fq/OEIMIOzgBFj8ZjluaL1E=
+
+Name: data/preload/HTC__001.xml
+SHA1-Digest-Manifest: I9+nm8I8OQEuDMbML4NkPqnqiJA=
+
+Name: patch/system/lib/libstagefright_soft_aacenc.so.p
+SHA1-Digest-Manifest: Mfnvr27xzFW8FZbDnzfOIi0Imzk=
+
+Name: patch/system/app/IMEXT9Romanian.odex.p
+SHA1-Digest-Manifest: Kz+PO53VSm0RvQP8v7DJgKB8w9g=
+
+Name: patch/system/bin/bl_camera.p
+SHA1-Digest-Manifest: Y5yYLuZLfbfhU0+mheq+azf0c6A=
+
+Name: data/preload/weather_l_partly_sunny.mp4
+SHA1-Digest-Manifest: ZY1BrZxQVD10O8TDBNTdsYwsYTE=
+
+Name: patch/system/app/talkback.apk.p
+SHA1-Digest-Manifest: wbngVBSRke5chHLEcL4vcWdHtEA=
+
+Name: patch/system/customize/MNS/65501.xml.p
+SHA1-Digest-Manifest: SRzBPrtBRjRBvKVqn+mQWYo0kTc=
+
+Name: patch/system/app/IMEXT9Polish.odex.p
+SHA1-Digest-Manifest: vXfPBdTbr1lG+rhIA0WPuq/mKeU=
+
+Name: patch/system/fonts/DFHEIA7A.ttf.p
+SHA1-Digest-Manifest: UY+NkzPHNcSIwzsg8Ma22BGlRv4=
+
+Name: patch/system/priv-app/HtcExtremePowerSaverLauncher.odex.p
+SHA1-Digest-Manifest: h3BTF4RzQC020qwDz9x6qv4Xy3A=
+
+Name: patch/system/app/Camera.odex.p
+SHA1-Digest-Manifest: 5E//xIY4iqmw51JuFhfj7/Fdv2o=
+
+Name: patch/system/priv-app/Automotive_Traffic.odex.p
+SHA1-Digest-Manifest: 3gc+x3NirZoF1DWL2Jivghgzd6s=
+
+Name: data/preload/mattingshotandpaste_stickers_17.png
+SHA1-Digest-Manifest: RHmdQmfqAKse0kAxKbbmfONcD9Q=
+
+Name: patch/system/priv-app/BackupRestoreConfirmation.odex.p
+SHA1-Digest-Manifest: g5O8C72owa/m+mYKXl+NiLyBdBA=
+
+Name: patch/system/app/IMEXT9BahasaMalaysia.odex.p
+SHA1-Digest-Manifest: X7etIeWnmmuvJ8jJcQow5iinNQI=
+
+Name: data/preload/mattingshotandpaste_stickers_15.png
+SHA1-Digest-Manifest: ffWf3phk9d5Qc8dxGiH5h0bjH20=
+
+Name: data/preload/weather_rain_day.mp4
+SHA1-Digest-Manifest: cpcqnMBwx+JR4LHSqUVRWlywMOQ=
+
+Name: patch/system/priv-app/LMIRescueSecurity.odex.p
+SHA1-Digest-Manifest: 8Vxi0+wFnB1DG0Ny0JBHmNtS7aA=
+
+Name: patch/system/priv-app/HtcFMRadioWidget.odex.p
+SHA1-Digest-Manifest: o04ne4x808LFDOWRfWynePU39y8=
+
+Name: patch/system/priv-app/Mail.odex.p
+SHA1-Digest-Manifest: 6AGUsz9lRFH3A3rIy8Dlq+8Ryhw=
+
+Name: patch/system/lib/libstagefright_omx.so.p
+SHA1-Digest-Manifest: dNGQr8LJiuPEND0vAe6jEvLBBE4=
+
+Name: data/preload/weather_l_rain_night.mp4
+SHA1-Digest-Manifest: nvGcBgx1yqqqv+8WBA47LovZxl0=
+
+Name: patch/system/app/NoiseField.odex.p
+SHA1-Digest-Manifest: IbMaOP7HJM3SPQFLS5XldzpaSuw=
+
+Name: patch/system/priv-app/HtcDataRoamingWidget.odex.p
+SHA1-Digest-Manifest: Ft/sfgt5CTsXncdTrvdKStvj4Q8=
+
+Name: patch/system/app/Font_Helvetica.odex.p
+SHA1-Digest-Manifest: esr4X+9V7Iq2Sd6bu9rUJFZJgDo=
+
+Name: patch/system/framework/webview/paks/nl.pak.p
+SHA1-Digest-Manifest: xzikSTjLHrQTUYXczuJskTDSJE8=
+
+Name: system/etc/security/cacerts/d66b55d9.0
+SHA1-Digest-Manifest: Jzk+aUA8M2y1ycaWsRrZjU3shQw=
+
+Name: system/framework/telephony-common.jar
+SHA1-Digest-Manifest: yKrxgruI4hERj9LysdmFIrTvoQ0=
+
+Name: patch/system/framework/com.htc.weather.res.apk.p
+SHA1-Digest-Manifest: GnfvjYixCYqUQfQ4lxC3Fssnshk=
+
+Name: patch/system/app/PowerToGive.apk.p
+SHA1-Digest-Manifest: 1nXOvnYjdr9EgTUXMmjW3LHwRfg=
+
+Name: patch/system/lib/libcameraasd.so.p
+SHA1-Digest-Manifest: cX1dPdOCBwR30Se5rx0iTHEl2YM=
+
+Name: patch/system/bin/cryptobox_server.p
+SHA1-Digest-Manifest: M5cA0sgUL7+fHSVM7DOdkfgR8Ys=
+
+Name: patch/system/customize/MNS/24001.xml.p
+SHA1-Digest-Manifest: jG8cy7a1wnUhHB057o+AdnVxomA=
+
+Name: system/lib/libdocscanner_image.so
+SHA1-Digest-Manifest: e2ZaQpOsizOP5W4X2XjJhD2JNB8=
+
+Name: system/etc/security/cacerts/b0ed035a.0
+SHA1-Digest-Manifest: hnXSIQMysEbGCK9Nc6CTN2Drv1w=
+
+Name: patch/system/bin/memlock.p
+SHA1-Digest-Manifest: PYLcTykOXrge06f8PDbAcxgalV8=
+
+Name: patch/system/bin/pppd.p
+SHA1-Digest-Manifest: UahLWAGstHd7polY9+7s+JXPJ9E=
+
+Name: patch/system/app/HtcPowerStripWidget.apk.p
+SHA1-Digest-Manifest: 3ub7oH6i7cIIDLPRJxb04NXaUZ4=
+
+Name: system/framework/com.android.media.remotedisplay.jar
+SHA1-Digest-Manifest: mJC6EjoFE6Uu9rtUiyF7RDMQNeI=
+
+Name: patch/system/app/HtcSettingsProvider.odex.p
+SHA1-Digest-Manifest: WmchTo/SDewDzdjQGGjlzf1Pc94=
+
+Name: patch/system/framework/svc.odex.p
+SHA1-Digest-Manifest: WZeDv/HI0f4P2ZYhMVYda5DRKNA=
+
+Name: patch/system/priv-app/HtcExtremePowerSaverLauncher.apk.p
+SHA1-Digest-Manifest: eiRXI41N7A6g9StConcg8m21oAo=
+
+Name: patch/system/app/PrintSpooler.apk.p
+SHA1-Digest-Manifest: AomFd/1kOzShmnlnCXexHyxHJyU=
+
+Name: patch/system/customize/MNS/21419.xml.p
+SHA1-Digest-Manifest: ztyVKDYnD8EQ+kxVV0iuYBE7ZMU=
+
+Name: patch/system/app/KeyChain.apk.p
+SHA1-Digest-Manifest: ZJAiDM6dZah3E/V63vbXKQlMr/U=
+
+Name: patch/system/app/IMEXT9Croatian.odex.p
+SHA1-Digest-Manifest: E5aNRa/tnGoK1mF2UEtmhXhSfTQ=
+
+Name: patch/system/app/Media_output.odex.p
+SHA1-Digest-Manifest: 8Gz3f6XOb0sVCXl+rCCV1ZTW404=
+
+Name: data/preload/weather_l_snow_night.mp4
+SHA1-Digest-Manifest: 0HYN3y5WhdAAfcHsvacNB3x8MhU=
+
+Name: patch/system/lib/libjavacrypto.so.p
+SHA1-Digest-Manifest: PEn+luGAoNhZu6mKnJAC1VGVXZs=
+
+Name: patch/system/lib/libtinyalsa.so.p
+SHA1-Digest-Manifest: /ITFVYIFYK34r5QoCjYIwcYuUfs=
+
+Name: patch/system/framework/webview/paks/pt-PT.pak.p
+SHA1-Digest-Manifest: zD9NuHOmZ6R37v0mmBpHbl8t5dg=
+
+Name: patch/system/framework/framework.odex.p
+SHA1-Digest-Manifest: ObUsibeMb6vgVCc4qhoa6Vsyvgg=
+
+Name: patch/system/priv-app/MyGoogleTaskPlugin.apk.p
+SHA1-Digest-Manifest: RvdytGfq5ieE7sAvvfwa6kETKk0=
+
+Name: data/preload/mattingshotandpaste_stickers_30.png
+SHA1-Digest-Manifest: ZL+iJek8q0LbiQoumjdY9J3YBVQ=
+
+Name: system/lib/libexif_lib1_jni_v06.so
+SHA1-Digest-Manifest: PUzC/SkY/rOt7xzS6NPb/l7VPsY=
+
+Name: system/app/Font_Yuen.apk
+SHA1-Digest-Manifest: xBjA5vUjzg+4KH4DvUlcCdk+6Ho=
+
+Name: patch/system/app/PrintSpooler.odex.p
+SHA1-Digest-Manifest: DDNOOBIKX8Uw17n6B3YlpZvXAu0=
+
+Name: patch/system/customize/CID/HTC__E11.xml.p
+SHA1-Digest-Manifest: HbCXsA+CY+Re/Xpsj1IksK4S8Ig=
+
+Name: system/framework/uiautomator.jar
+SHA1-Digest-Manifest: 5/TY2/gxtvkTmwYRBO/vs7POjtA=
+
+Name: patch/system/priv-app/Facebook.apk.p
+SHA1-Digest-Manifest: Uu/u1zTWJPa9SPe1sCvaeRrmMPs=
+
+Name: patch/system/app/Music2.apk.p
+SHA1-Digest-Manifest: HB5rQOaiV3uHsgfWeEQZQxpWZ2s=
+
+Name: patch/system/etc/permissions/handheld_core_hardware.xml.p
+SHA1-Digest-Manifest: YZwPnbQwFlX4pRrE+G+ZMF4TeME=
+
+Name: patch/system/lib/libfbjni.so.p
+SHA1-Digest-Manifest: W2eJru6PIXNMUoFIrdh9ERqhJxw=
+
+Name: patch/system/vendor/lib/libgsl.so.p
+SHA1-Digest-Manifest: OkSQbLvBd4zQ6uV+W+RKkhSWT3w=
+
+Name: patch/system/framework/webview/paks/ro.pak.p
+SHA1-Digest-Manifest: iEjKOEh/sSyi1kB7hRiGRSbsh9Y=
+
+Name: patch/system/app/Settings.apk.p
+SHA1-Digest-Manifest: Dd8bFi5oqPfh/cqJGAMJjT/jgKc=
+
+Name: patch/system/app/Magazines.apk.p
+SHA1-Digest-Manifest: P+NxHxA7TalFdwBIkgNJbIrVUY0=
+
+Name: META-INF/com/android/metadata
+SHA1-Digest-Manifest: SfnT0dTkoak4W6Zro+1B5tqxytE=
+
+Name: patch/system/bin/test_gemini.p
+SHA1-Digest-Manifest: wi5h0CWM4QOOfbnH+rMsvpaByeU=
+
+Name: patch/system/app/Camera.apk.p
+SHA1-Digest-Manifest: 6e5vmttIfFy41+XR/RqicRQwYZw=
+
+Name: patch/system/lib/libbcc.sha1.so.p
+SHA1-Digest-Manifest: IC/en8gnSf4hynBlfD/HQRZLx/U=
+
+Name: patch/system/customize/ACC/HTC__E11.xml.p
+SHA1-Digest-Manifest: 4pp+W13ga+z5h1dp85octdb5Mfk=
+
+Name: system/priv-app/HtcSpeakLite.apk
+SHA1-Digest-Manifest: MVkDC3pY1bEJtbTiKUrEKwsCr+Y=
+
+Name: patch/system/priv-app/WifiRouter.apk.p
+SHA1-Digest-Manifest: x9zkqt8ZwFsSuFs8B+CwUuqkIx8=
+
+Name: patch/system/framework/content.odex.p
+SHA1-Digest-Manifest: +AMjRFo5Vr1dIBVMMHYihOY7uHU=
+
+Name: data/preload/HTC__102.xml
+SHA1-Digest-Manifest: GCZ1g+0LtCQm3SkXHpdpPn1CfWg=
+
+Name: data/preload/mattingshotandpaste_stickers_28.png
+SHA1-Digest-Manifest: z9p56qdc//4qfT7at6kyTUJvJ3Y=
+
+Name: data/preload/mattingshotandpaste_stickers_13.png
+SHA1-Digest-Manifest: U8e1gvoelDn/yH5+8NawWZTYNvE=
+
+Name: patch/system/customize/ACC/HTC__203.xml.p
+SHA1-Digest-Manifest: 1rxUUfXRAqh40Efpl2pl7jAqB08=
+
+Name: patch/system/priv-app/HomePersonalize.odex.p
+SHA1-Digest-Manifest: 5Wsd0WlBFDPfkILzfp41Y/Gdjs0=
+
+Name: patch/system/lib/libselinux.so.p
+SHA1-Digest-Manifest: e0ElpH7Z0KqLrhotnvT4o/8ca7A=
+
+Name: patch/system/app/PacProcessor.apk.p
+SHA1-Digest-Manifest: R4JdSJgJZBDJLgDIGDdEJXRGnOM=
+
+Name: patch/system/customize/MNS/234.xml.p
+SHA1-Digest-Manifest: E6A0oc2uh0nB76EHk/gvWgoL47o=
+
+Name: patch/system/priv-app/HtcBtWidget.odex.p
+SHA1-Digest-Manifest: PkqcjmyvSZYkjmhPg7uwaxzyE5I=
+
+Name: patch/system/app/LiveWallpapers.odex.p
+SHA1-Digest-Manifest: Z/Ra/tcutld6jGsv/MsEJkmLur0=
+
+Name: patch/system/lib/modules/dm-crypt.ko.p
+SHA1-Digest-Manifest: FPic5lYKCfaBFtjnk3Nsh26XxEk=
+
+Name: patch/system/lib/libpng.so.p
+SHA1-Digest-Manifest: lWWxtr/+/SW5xnbEwzq29QGcX6U=
+
+Name: system/lib/libjhead_jni.so
+SHA1-Digest-Manifest: OmGK0fZDr5GIsyJ6E32KAxSu7p0=
+
+Name: patch/system/app/Bluetooth.apk.p
+SHA1-Digest-Manifest: x1QigJjiHj9KKlTmWnXi6YZOnII=
+
+Name: patch/system/lib/libaudioflinger.so.p
+SHA1-Digest-Manifest: PAfZdUr2sBIsGYR7EhbR+TTpgx8=
+
+Name: system/lib/libebt_arpreply.so
+SHA1-Digest-Manifest: O5X5C8XPLo22BwJ2FOY7upSBazo=
+
+Name: patch/system/customize/ACC/HTC__Y13.xml.p
+SHA1-Digest-Manifest: HUD47M7xH8RYtcllk6ZrvQiMMao=
+
+Name: patch/system/framework/okhttp.odex.p
+SHA1-Digest-Manifest: anY1AsbruHry9xg3ZyBFsBNZdH8=
+
+Name: patch/system/priv-app/HtcDataStripWidget.apk.p
+SHA1-Digest-Manifest: EMpzB2q4fgOjf/W/9zK2iks/zcw=
+
+Name: patch/system/app/FaceLock.apk.p
+SHA1-Digest-Manifest: 0w4+ozaTeUWvBcFPIVU3qdxvOjw=
+
+Name: patch/system/customize/MNS/22288.xml.p
+SHA1-Digest-Manifest: COOVA6tTLTEjtmdVb00LmRGqFUI=
+
+Name: patch/system/priv-app/HtcMusic.apk.p
+SHA1-Digest-Manifest: QIJp2NIy3YZOutl1tmQgYItjIa4=
+
+Name: patch/system/etc/bluetooth/bt_stack.conf.p
+SHA1-Digest-Manifest: 5fekBWBadL65yrdfNeeHUbaB1Lg=
+
+Name: system/etc/security/cacerts/5f47b495.0
+SHA1-Digest-Manifest: aPOOqvjMp9CZKaAc9SVNkv4OXCU=
+
+Name: patch/system/priv-app/HtcMusicEnhancer.apk.p
+SHA1-Digest-Manifest: f4yQOTU0lXJXzphYwEDJ1g1nOcE=
+
+Name: patch/system/lib/libRS.so.p
+SHA1-Digest-Manifest: uofEdmO+ye+k0rs8HFiy3MK17Eg=
+
+Name: patch/system/lib/libqmi_client_qmux.so.p
+SHA1-Digest-Manifest: W01cNbM3QcdVa0GW2i3GUn64+78=
+
+Name: patch/system/app/IMEXT9Hungarian.odex.p
+SHA1-Digest-Manifest: TVBoIktOe3vlRtY6/5jTDZIjZFQ=
+
+Name: patch/system/app/IMEXT9Ukrainian.odex.p
+SHA1-Digest-Manifest: h4azCHluvqdaNdm1w1emEyx71/Q=
+
+Name: patch/system/framework/webview/paks/fa.pak.p
+SHA1-Digest-Manifest: gwqh6Kjzm/WOnV2ye1+xOKfsseE=
+
+Name: system/framework/am.jar
+SHA1-Digest-Manifest: A+fguKYEIPSKzv+FFzkSZfPUtgQ=
+
+Name: system/etc/EpsAlarmQueuingList.xml
+SHA1-Digest-Manifest: VQfZGex0jjOEK0XPihSpaNNOmts=
+
+Name: patch/system/framework/services.odex.p
+SHA1-Digest-Manifest: asv9z1LQXgwLjDeyaVIudSCE/JU=
+
+Name: data/preload/mattingshotandpaste_stickers_06.png
+SHA1-Digest-Manifest: wTcD4hXnPWor/edeFaJhczmw3is=
+
+Name: patch/system/priv-app/SoundPicker.odex.p
+SHA1-Digest-Manifest: VYraPtvK8kXPbUWMcqGPPGdG3cA=
+
+Name: patch/system/lib/libgcastv2_support.so.p
+SHA1-Digest-Manifest: s0O3FV2ELv5h03MVYM2oVxVjHyM=
+
+Name: patch/system/customize/CID/HTC__032.xml.p
+SHA1-Digest-Manifest: TwQJ2kbOmatt1m3LVhhRH1LFn+g=
+
+Name: system/framework/ime.jar
+SHA1-Digest-Manifest: bQYIuGfJ3DJV/7cFIfGSZy+wXLI=
+
+Name: patch/system/framework/com.android.future.usb.accessory.odex.p
+SHA1-Digest-Manifest: /fA+H9J0cHwQ7Xf/4NH4v2x0xMY=
+
+Name: patch/system/priv-app/HtcNotes.odex.p
+SHA1-Digest-Manifest: xdNifjctUH1wZUTPKMo7uBan/vU=
+
+Name: patch/system/framework/webview/paks/fr.pak.p
+SHA1-Digest-Manifest: jGJ+6kItyvx6pb6P+P61Xxk6FuU=
+
+Name: patch/system/bin/dalvik_coredump.sh.p
+SHA1-Digest-Manifest: PMNQWUbwwt4AbYSC0GICkpkquEA=
+
+Name: patch/system/bin/debuggerd.p
+SHA1-Digest-Manifest: Tlxt+6LXJ3TTJ9Wi3a9M9eDsqJ4=
+
+Name: patch/system/framework/webview/paks/ta.pak.p
+SHA1-Digest-Manifest: Ny7mQJuoKk7KfCkAGgT7gBs0s78=
+
+Name: patch/system/app/PartnerBookmarksProvider.apk.p
+SHA1-Digest-Manifest: 2xfq/58qByP54aRCGm2fsCV+vz4=
+
+Name: data/preload/mattingshotandpaste_stickers_10.png
+SHA1-Digest-Manifest: v/+xhEqzCOyrwYJytKHH7voZuLM=
+
+Name: patch/system/priv-app/Facebook_Client.apk.p
+SHA1-Digest-Manifest: BjlTuBwyA3Vo6bnrTdz3h3duLS8=
+
+Name: patch/system/app/HtcProfilesWidget.odex.p
+SHA1-Digest-Manifest: eLObCmVOyJ3GXhtJbcBAj4WrdFQ=
+
+Name: system/etc/security/cacerts/124bbd54.0
+SHA1-Digest-Manifest: 0Y5btc5O9kTs5oWDEfPzlSj/i3A=
+
+Name: patch/system/framework/javax.obex.odex.p
+SHA1-Digest-Manifest: e/mj6zzYmXb0VWMzLpUWIlBRLIY=
+
+Name: patch/system/priv-app/GSD.odex.p
+SHA1-Digest-Manifest: UCXHAUwR9od8gia8sXHcmfV4kVs=
+
+Name: patch/system/customize/resource/package_mapping.xml.p
+SHA1-Digest-Manifest: LGpgdyh+aqL6tRR8njnwaRz0bN8=
+
+Name: patch/system/customize/MNS/26806.xml.p
+SHA1-Digest-Manifest: 3Xh2JFXn1QSRjJAVmDyqFna38G8=
+
+Name: patch/system/lib/libexif.so.p
+SHA1-Digest-Manifest: DZ6bgp6OEhvoE7OxhQZU2SvWTSA=
+
+Name: patch/system/bin/make_ext4fs.p
+SHA1-Digest-Manifest: /zJdmchJscepSHAZELRgw+IBRoM=
+
+Name: patch/system/lib/modules/eeprom_93cx6.ko.p
+SHA1-Digest-Manifest: laZqiOQK09faYkqOexlOQ3CXT3U=
+
+Name: patch/system/app/HtcAutoRotateWidget.odex.p
+SHA1-Digest-Manifest: MNvvyu4aDJFQRY1NL0dy1e23ItA=
+
+Name: patch/system/app/PhaseBeam.apk.p
+SHA1-Digest-Manifest: L++mZam/JQd/6bg7DXLQGwyBqac=
+
+Name: patch/system/lib/libcsd-client.so.p
+SHA1-Digest-Manifest: OlvYulEq5NVuEUr4xXvg5iC4w7I=
+
+Name: patch/system/app/HTMLViewer.apk.p
+SHA1-Digest-Manifest: bmD3TDdXMKrdCjSOIg8NVYT00v4=
+
+Name: patch/system/vendor/lib/libQSEEComAPI.so.p
+SHA1-Digest-Manifest: Uv6y1caPLECVAAYLyK2ZD0TEOKE=
+
+Name: system/app/com.htc.mobiledata.apk
+SHA1-Digest-Manifest: l4VuueI3PsWLntYNZjHtmUzeDvo=
+
+Name: system/lib/libebt_802_3.so
+SHA1-Digest-Manifest: yUuTedD2KjqBA+XhsnRho7mOQ8s=
+
+Name: patch/system/lib/modules/moc_platform_mod.ko.3.4.10.p
+SHA1-Digest-Manifest: xk3heTgFY+w8HjZ+vas8Mqd8fvA=
+
+Name: patch/system/priv-app/HomePersonalize.apk.p
+SHA1-Digest-Manifest: XsmBB/zswhYN6jlq1+JaKBaS5sM=
+
+Name: patch/system/priv-app/ProxyHandler.apk.p
+SHA1-Digest-Manifest: drBlQgmmXSdmDKA/JDajEO5H57s=
+
+Name: patch/system/vendor/lib/libc2d2_a3xx.so.p
+SHA1-Digest-Manifest: k/5Qq9SBP1Mv3kRVpSA6pjwqOXE=
+
+Name: data/preload/mattingshotandpaste_stickers_02.png
+SHA1-Digest-Manifest: Sd5HY38m7bBULQO6YWQ+b+G6GRM=
+
+Name: system/lib/libgnencryption.3.3.3.15.so
+SHA1-Digest-Manifest: sS7MYf6xENy7kYjv2jItnV9zJyU=
+
+Name: system/framework/svc.jar
+SHA1-Digest-Manifest: iApylaip62tNX6+1zr2KtkFCejg=
+
+Name: data/preload/weather_sunny.mp4
+SHA1-Digest-Manifest: lqREtcwZuIVHvfP1KsuyX8VWs4s=
+
+Name: system/framework/HTCDev.jar
+SHA1-Digest-Manifest: 8ysBfxvvIBZQM/R5JNuNu5zTBIs=
+
+Name: patch/system/priv-app/HtcNotificationWidget.apk.p
+SHA1-Digest-Manifest: 2wNgrvAF8hLGVZVxlv5uMHh6wNA=
+
+Name: patch/system/framework/webview/paks/sv.pak.p
+SHA1-Digest-Manifest: gP2j+/xCzqwTUGPvhqGKMvYiNt8=
+
+Name: system/lib/libebt_among.so
+SHA1-Digest-Manifest: cKulD68mgkXvimQLS/s2ANfwl/U=
+
+Name: patch/system/priv-app/HtcMessageUploader.odex.p
+SHA1-Digest-Manifest: C+k4IHjcV1X4QsQBAcnUZQm6Vqg=
+
+Name: patch/system/priv-app/DefaultContainerService.odex.p
+SHA1-Digest-Manifest: tDKQX50sYZmZhKQdl+b9Z96S9+k=
+
+Name: patch/system/lib/libril-qc-qmi-1.so.p
+SHA1-Digest-Manifest: SatAA2llEISZNs0kFOmQe+7XzNs=
+
+Name: patch/system/lib/libcrashreporter.so.p
+SHA1-Digest-Manifest: /YHbkCbtSNj7YK8VQYnsDkBKdf8=
+
+Name: data/preload/mattingshotandpaste_stickers_21.png
+SHA1-Digest-Manifest: yvjHZ6xnkpWwKz9q0WimelVV7jQ=
+
+Name: patch/system/priv-app/WorldClock.odex.p
+SHA1-Digest-Manifest: HUh4ylae/BavgxNtsH4//gNBymk=
+
+Name: system/priv-app/ConfigUpdater.apk
+SHA1-Digest-Manifest: tckgVk/A7YvBq2tX/l3+paIuB9c=
+
+Name: patch/system/priv-app/Automotive_Home.apk.p
+SHA1-Digest-Manifest: jZ1KBnub3bseA93VUe7MTE0awgU=
+
+Name: patch/system/xbin/dexdump.p
+SHA1-Digest-Manifest: NgKdRJpz5CdK7RjQ3V2XCG8SYW0=
+
+Name: patch/system/framework/settings.odex.p
+SHA1-Digest-Manifest: HBOk1dzanyD8tm2s+fh4Im+Upm4=
+
+Name: patch/system/app/IMEXT9Russian.odex.p
+SHA1-Digest-Manifest: KZB2oHSAQPAWZ/A7ZPha5F6LG7c=
+
+Name: patch/system/priv-app/HtcContactsDNATransfer.odex.p
+SHA1-Digest-Manifest: Yr0GgeT7uKMDSNxZ7MYc0YpZ2Tk=
+
+Name: system/lib/libocrclient.so
+SHA1-Digest-Manifest: m6NUiF6t8O0wyFZA1V0vKWiy/AQ=
+
+Name: patch/system/framework/framework3.odex.p
+SHA1-Digest-Manifest: spFNdpCDK2cvdtZF+t5m+nZc6AA=
+
+Name: patch/system/priv-app/HtcGetStarted.apk.p
+SHA1-Digest-Manifest: gh6f/x/rpi+QxvQ6KkSqjm2Drhc=
+
+Name: patch/system/priv-app/VoiceDictation.apk.p
+SHA1-Digest-Manifest: Go6p6Ar0C3d0wgabkORi+5bzTbw=
+
+Name: patch/system/lib/libui.so.p
+SHA1-Digest-Manifest: ljR3Wr+UFgtraFQFH9KTTfdZ3+I=
+
+Name: patch/system/priv-app/HtcPowerManager.odex.p
+SHA1-Digest-Manifest: 37KmDCEo4PId5S6XZFP3x+Xckbk=
+
+Name: patch/system/lib/modules/ansi_cprng.ko.p
+SHA1-Digest-Manifest: 6wgzjntqQCzOP4cEzkJpWRCeUs8=
+
+Name: patch/system/app/HoloSpiralWallpaper.apk.p
+SHA1-Digest-Manifest: qSNJ5+E+r85vu/Iv8qotHkSIp6Y=
+
+Name: patch/system/app/DocumentsUI.odex.p
+SHA1-Digest-Manifest: YJ3ba/DCfeiEBy8oa3bOiWBv54M=
+
+Name: patch/system/customize/MNS/23410.xml.p
+SHA1-Digest-Manifest: cQ/UwcLPKbljyIzMwlBkbLoCDlU=
+
+Name: system/framework/wm.jar
+SHA1-Digest-Manifest: bAlqMEMQUF3DHFWGppNcFrNnaX4=
+
+Name: patch/system/lib/libgoogle_recognizer_jni_l.so.p
+SHA1-Digest-Manifest: buvlV2CZLZE7kze65ARXEggpYG4=
+
+Name: patch/system/framework/webview/paks/bn.pak.p
+SHA1-Digest-Manifest: nqDevGvEdlQdRmAl/jRp8T3KFbQ=
+
+Name: system/framework/media_cmd.jar
+SHA1-Digest-Manifest: aMziHCyxCwtv3XLggt3jh3knPhM=
+
+Name: patch/system/lib/libcrypto.so.p
+SHA1-Digest-Manifest: erxWHhVptW2oYWJjOE6LDhB2ieU=
+
+Name: system/etc/security/cacerts/02b73561.0
+SHA1-Digest-Manifest: SUHHG69kKI7OuHZUtTHXFW8KuOk=
+
+Name: data/preload/mattingshotandpaste_stickers_18.png
+SHA1-Digest-Manifest: MsLnYjpLI1z+9A9gJqTxSoOP3Xk=
+
+Name: patch/system/priv-app/HtcMusicWidget.odex.p
+SHA1-Digest-Manifest: Sjv60LpAjDbircoOpa/7CVeq6ZQ=
+
+Name: patch/system/lib/libinputservice.so.p
+SHA1-Digest-Manifest: gzQ3qEhgXdMidL/hTn1yuH+Oy98=
+
+Name: patch/system/framework/core.odex.p
+SHA1-Digest-Manifest: 35k7ggOeTpIw1cv/VKeODXt/kfs=
+
+Name: patch/system/lib/libsensorservice.so.p
+SHA1-Digest-Manifest: j0NQJlFFknjL5fME3F/vt3zvVS0=
+
+Name: patch/system/app/SmartDim.apk.p
+SHA1-Digest-Manifest: 3eYWZfmUoPWzBrNexgjTgeJzgBk=
+
+Name: patch/system/framework/webview/paks/et.pak.p
+SHA1-Digest-Manifest: 2VMsbTh8EYlwbGnfQos66I0jDMg=
+
+Name: patch/system/app/Usage.odex.p
+SHA1-Digest-Manifest: Jyw++wSS15yrrlqjJhRgUKTtkrU=
+
+Name: patch/system/customize/MNS/21406.xml.p
+SHA1-Digest-Manifest: dBMF2VHsb/G1j8NPsnjLAZzDG4Q=
+
+Name: patch/system/lib/libmm-omxcore.so.p
+SHA1-Digest-Manifest: bwianyZB00T+anyg8w8KKgu3uBc=
+
+Name: patch/system/priv-app/HtcServicePack.odex.p
+SHA1-Digest-Manifest: TdFnan0ybkSqKN+IYsItDSCilHY=
+
+Name: patch/system/priv-app/FlexNet.odex.p
+SHA1-Digest-Manifest: y/h0cdMjDxw22XD3lkd2SeRY/+k=
+
+Name: patch/system/priv-app/MyBreeze.apk.p
+SHA1-Digest-Manifest: EI4UGv+awtXjIXkVSaKlVOyPOqo=
+
+Name: system/lib/libfb_imgproc.so
+SHA1-Digest-Manifest: 5a8HUdZ9/bIvY1h6Co3XMxqN/yU=
+
+Name: patch/system/app/NfceeService.odex.p
+SHA1-Digest-Manifest: FU7IqVvrr+ORIYmBq7CMQkMeBik=
+
+Name: system/etc/security/cacerts/cb156124.0
+SHA1-Digest-Manifest: aAHlSbjOrxSwUR5F1bKlDEmAme8=
+
+Name: patch/system/app/IMEXT9Finnish.odex.p
+SHA1-Digest-Manifest: qmStpoh/h1Y7Egtd+SAKjIL6154=
+
+Name: patch/system/framework/webview/paks/sr.pak.p
+SHA1-Digest-Manifest: Fxm2aEJEEC+jHKE0nFnriKecOSg=
+
+Name: patch/system/priv-app/HMS_Gallery.odex.p
+SHA1-Digest-Manifest: QCOrGLp+0EP5oF7DM5x+V50NNxY=
+
+Name: patch/system/lib/libphotoeditor_native.so.p
+SHA1-Digest-Manifest: o3FyHLwg1kQ3xx//qGV0bD5LSHI=
+
+Name: patch/system/app/IMEXT9Italian.odex.p
+SHA1-Digest-Manifest: jwPoFVE0uKQQP69vZJGdPcchg7I=
+
+Name: patch/system/customize/MNS/24008.xml.p
+SHA1-Digest-Manifest: g6NirMPQb1lQ4/4rpj3R+ogZm4M=
+
+Name: patch/system/lib/libstagefright.so.p
+SHA1-Digest-Manifest: vyJwCDMKiiBV6RRQ20xm9MHAl9c=
+
+Name: patch/system/priv-app/ProxyHandler.odex.p
+SHA1-Digest-Manifest: K4mh7zmbbxRg9biQ7B9dxDupUf4=
+
+Name: patch/system/lib/libmmcamera_aec.so.p
+SHA1-Digest-Manifest: iA5a7M3/v2cg0r6RuRLH4/arqnI=
+
+Name: patch/system/bin/wpa_cli.p
+SHA1-Digest-Manifest: TutoYS2Z35oMP0dmjQPDvXi6cEM=
+
+Name: patch/system/bin/charging.p
+SHA1-Digest-Manifest: GvQj6Uh0DIeRKqJpq+Nnjc0BJG0=
+
+Name: patch/system/fonts/NotoSansDevanagariUI-Bold.ttf.p
+SHA1-Digest-Manifest: m/di0rBGCBtiwHy1J3Ie/juPfHY=
+
+Name: patch/system/framework/webview/paks/tr.pak.p
+SHA1-Digest-Manifest: e4q8BdKhFdbzQ9i1UbcR+W+Si1Y=
+
+Name: system/framework/services.jar
+SHA1-Digest-Manifest: KE0SUFUeYAQnlpklYMXim6DHHH8=
+
+Name: patch/system/priv-app/ExternalStorageProvider.odex.p
+SHA1-Digest-Manifest: M/UimwfUGEGpWGo9MAuc+WK9paE=
+
+Name: patch/system/framework/framework.jar.p
+SHA1-Digest-Manifest: aNIkx5+lGa1gV3MX7cK2ly/xt4s=
+
+Name: patch/system/app/IMEXT9Thai.odex.p
+SHA1-Digest-Manifest: uUL5awAxEs1eV/+qadHRjzzNJQQ=
+
+Name: patch/system/priv-app/TelephonyProvider.apk.p
+SHA1-Digest-Manifest: /lYwdfDZYhLIcpkfZlRqFiVEnNE=
+
+Name: patch/system/app/IMEXT9Estonian.odex.p
+SHA1-Digest-Manifest: 0Q5rM9c3BAckNMlpmlRQ4TLbhJ4=
+
+Name: patch/system/priv-app/HtcDataStripWidget.odex.p
+SHA1-Digest-Manifest: xG4gxsPydOTbQumkJJh9U/utRF0=
+
+Name: patch/system/framework/HTCDev.odex.p
+SHA1-Digest-Manifest: r+JuVeIh1iCop0jhSpV8Luo5Tuw=
+
+Name: system/framework/content.jar
+SHA1-Digest-Manifest: C1iMmlQOloKxbs9CWAv5cnL3+7Y=
+
+Name: patch/system/bin/bootanimation.p
+SHA1-Digest-Manifest: t27LytcrDnvnNT7qhEqCj+bQyI0=
+
+Name: patch/system/customize/MNS/21416.xml.p
+SHA1-Digest-Manifest: oijWG/Vg/ZbxtJdhypio4hIHgMs=
+
+Name: patch/system/lib/libpac.so.p
+SHA1-Digest-Manifest: KnNOAsPBEHubDB+C3/roCx54K0c=
+
+Name: patch/system/app/IMEXT9Hebrew.odex.p
+SHA1-Digest-Manifest: WCeT+OyS1yylHiIVa3yDLYnRIuU=
+
+Name: patch/system/app/Videos.apk.p
+SHA1-Digest-Manifest: hpZaLeH6UlAyEnatDr9zptspHEw=
+
+Name: patch/system/customize/MNS/24201.xml.p
+SHA1-Digest-Manifest: hfuSjrcSbf3EkB9pgqO42FzAufo=
+
+Name: patch/system/priv-app/HtcMusicEnhancer.odex.p
+SHA1-Digest-Manifest: Pt/t3/DBRez/SEBPngtrLXgPtXA=
+
+Name: patch/system/priv-app/HtcWiFiWidget.apk.p
+SHA1-Digest-Manifest: Nl1/gjdDvd/FrUlm8mJO1KffFD4=
+
+Name: patch/system/lib/libfb_cpucapabilities.so.p
+SHA1-Digest-Manifest: S9CKVah194nwba9cXD1shUKl6IQ=
+
+Name: patch/system/priv-app/SystemUI.odex.p
+SHA1-Digest-Manifest: pB2Ety0awUyvXMMHLGNrJWFCYMI=
+
+Name: system/lib/libebtable_broute.so
+SHA1-Digest-Manifest: 6qblxIv4KjrpKC0VS/0ypBgOoGs=
+
+Name: patch/system/bin/qcks.p
+SHA1-Digest-Manifest: W597t+4mGCkFLVL+29y9/IJl9Us=
+
+Name: patch/system/framework/webview/paks/sk.pak.p
+SHA1-Digest-Manifest: uFXhU3cgMvStJNCvvnT9rjoHaLw=
+
+Name: patch/system/app/HtcLogLevel.odex.p
+SHA1-Digest-Manifest: wbf2IU2Bv17xKW6meQ4n3C3itZI=
+
+Name: patch/system/priv-app/VpnDialogs.odex.p
+SHA1-Digest-Manifest: 3eUaZf4FAOW4PTVHbzd5psBKwpE=
+
+Name: patch/system/lib/libRSDriver.so.p
+SHA1-Digest-Manifest: BNe5NMvA+nX8gTRAwydsieW+bjY=
+
+Name: patch/system/framework/com.broadcom.bt.odex.p
+SHA1-Digest-Manifest: wdsO+t6u4nRj43QWM00inV8mYlU=
+
+Name: patch/system/customize/CID/HTC__304.xml.p
+SHA1-Digest-Manifest: 9ZSRTH19O6mjUSWC9tX9qEtZEMQ=
+
+Name: patch/system/priv-app/HtcHotspotWidget.odex.p
+SHA1-Digest-Manifest: XdtvWsy2loF3+I+0l+7omfu/ADU=
+
+Name: patch/system/priv-app/DeviceManagement.odex.p
+SHA1-Digest-Manifest: +l75IAdOGNfTqQIFEb8rLBeMGwQ=
+
+Name: system/etc/security/cacerts/9ab62355.0
+SHA1-Digest-Manifest: ydpR0UdW26QasQww36dEI9AnEeE=
+
+Name: patch/system/media/musicchannel/MMI/landscape/temp_type9.mna.zip
+ .p
+SHA1-Digest-Manifest: 2w53XjVezh+JPBBFzHwol6itrFQ=
+
+Name: patch/system/bin/mm-jpeg-enc-test.p
+SHA1-Digest-Manifest: mR6SHaIb+obM1APA+LNVpy2CpBU=
+
+Name: patch/system/customize/MNS/65502.xml.p
+SHA1-Digest-Manifest: qQe57+bad/CoZJKeOOMS/GL/QuA=
+
+Name: patch/system/app/IMEXT9EnglishUK.odex.p
+SHA1-Digest-Manifest: TBcfTokO7fz4IhQygkTUd4IkZrU=
+
+Name: patch/system/lib/libpeanut.so.p
+SHA1-Digest-Manifest: Sm3hccwe8K+ZwUSUn5svhvh+3lw=
+
+Name: patch/system/priv-app/Prism.odex.p
+SHA1-Digest-Manifest: xCN5DrOwzHbiWg8mCQhFsXNwWJk=
+
+Name: patch/system/priv-app/SettingsProvider.apk.p
+SHA1-Digest-Manifest: e2nHaquEawfHldU6x00wBKXwFo8=
+
+Name: patch/system/app/CalculatorWidget.odex.p
+SHA1-Digest-Manifest: NLNONyV833ukTHyE0+wMvT2QJbw=
+
+Name: patch/system/bin/efsks.p
+SHA1-Digest-Manifest: VTyY7KODQhcUU2t38+ewK6W1L7o=
+
+Name: patch/system/lib/libAppDataSearch.so.p
+SHA1-Digest-Manifest: 6sO1zfmt+zWsf2JyshACRPk6UJg=
+
+Name: patch/system/lib/libMusicVisualizer.so.p
+SHA1-Digest-Manifest: 823v/mpcf7pjRpVhdGlRmiA9aBA=
+
+Name: patch/system/priv-app/FilePicker.odex.p
+SHA1-Digest-Manifest: PI2fl1Rcc9oLPwF8jpwkKhgtztk=
+
+Name: skin_fota
+SHA1-Digest-Manifest: 5hXsfpsUsDXO+3u/A9kqawHLKDQ=
+
+Name: patch/system/customize/resource/CCInfo.txt.p
+SHA1-Digest-Manifest: H9Q6zi3VcOS5oDsQzLgTaWY6pvc=
+
+Name: system/etc/default_vol_level.conf
+SHA1-Digest-Manifest: 446juFqSNxQkMQ+RUEWmCb6Y+F4=
+
+Name: patch/system/lib/modules/gspca_main.ko.p
+SHA1-Digest-Manifest: rcTpl8T9fQkl6G8ae24bEMpNzbY=
+
+Name: patch/system/app/HTCSetupWizard.apk.p
+SHA1-Digest-Manifest: tsm/6DLKB4BGOq6++W6oo25Vfhw=
+
+Name: patch/system/customize/MNS/21408.xml.p
+SHA1-Digest-Manifest: wiS36ykk4jwIYxxnA3mHgh7euHU=
+
+Name: data/preload/weather_l_clear.mp4
+SHA1-Digest-Manifest: Vi2Ow9Y+6B0ca1HEevAoi4dKfiM=
+
+Name: patch/system/app/PartnerBookmarksProvider.odex.p
+SHA1-Digest-Manifest: jKTNfRJQQETByexbTgc2btXOWJw=
+
+Name: patch/system/framework/wm.odex.p
+SHA1-Digest-Manifest: eTP+NlSuk2MaVlFQEbobyAzNRJc=
+
+Name: patch/system/framework/webview/paks/ar.pak.p
+SHA1-Digest-Manifest: n/GtwRfMNXfZX/g7D5siXR7a1kk=
+
+Name: system/customize/clientid/default.prop_HTC__A07
+SHA1-Digest-Manifest: 7zFhp0Jz5uQjuDYtShg2JtYMLIA=
+
+Name: system/framework/bmgr.jar
+SHA1-Digest-Manifest: LpFgraSthbpoW+143n/2lQ0JD2w=
+
+Name: patch/system/priv-app/PNSClient.apk.p
+SHA1-Digest-Manifest: qvxpMHdi5c0Or6aTOAuXLKqNz0g=
+
+Name: patch/system/lib/libfb_jpegturbo.so.p
+SHA1-Digest-Manifest: IjcgS0+/4K1WHdxdkanGxD4h+bQ=
+
+Name: patch/system/app/HtcResetNotify.apk.p
+SHA1-Digest-Manifest: YMsy5sTpljxbX+ssidfUJdnJdWA=
+
+Name: patch/system/app/QXDM2SD.apk.p
+SHA1-Digest-Manifest: 4HcU/xAiJbl2bsZZnSEUjXkkDjc=
+
+Name: patch/system/vendor/lib/egl/libGLESv2_adreno.so.p
+SHA1-Digest-Manifest: Vo5+jhEEZ9i27tUyyVHfcMdR6ck=
+
+Name: patch/system/priv-app/MyBreeze.odex.p
+SHA1-Digest-Manifest: /hoz6UNxc4mhwWNryOrgGXRXq8E=
+
+Name: patch/system/etc/event-log-tags.p
+SHA1-Digest-Manifest: knh32m1dN6IZnBVCAEmlg6nCcac=
+
+Name: patch/system/app/IMEMurasuIndic.odex.p
+SHA1-Digest-Manifest: qXgH74Lo2G9L4l6B/ph4THtD8AA=
+
+Name: patch/system/priv-app/GooglePlusPlugin.odex.p
+SHA1-Digest-Manifest: 9Svo+LtUiwU2SICT1+cWnQq7ROw=
+
+Name: patch/system/app/HtcReminderViewResource.apk.p
+SHA1-Digest-Manifest: j1K6g8d6mUN7uhwSUnX5veAdxgM=
+
+Name: system/framework/pm.jar
+SHA1-Digest-Manifest: 4ff7OOdMcsLCHKBBZaXOlUXmgAw=
+
+Name: patch/system/framework/ime.odex.p
+SHA1-Digest-Manifest: 1XjS70JQZxtd2dxEQKobMRBlXJs=
+
+Name: patch/system/lib/libfilterpack_facedetect.so.p
+SHA1-Digest-Manifest: 2sxXhIODxaPh37wmm1Zz9IL8aIY=
+
+Name: patch/system/build.prop.p
+SHA1-Digest-Manifest: ixPefueMyFWh4OBjkykJAHAosZs=
+
+Name: patch/system/etc/permissions/com.broadcom.bt.xml.p
+SHA1-Digest-Manifest: mIImVzAbSM8MynxlYMvHgkolEaQ=
+
+Name: patch/system/customize/MNS/21404.xml.p
+SHA1-Digest-Manifest: vSZ17koTE+4zTEFyMi1W+rEpgrk=
+
+Name: patch/system/priv-app/Shell.odex.p
+SHA1-Digest-Manifest: Gufz0pdEmzJqwHpCTA0IDLUGqi0=
+
+Name: patch/system/app/Nfc.odex.p
+SHA1-Digest-Manifest: KJmEH3Qplw0hgz3aphAqmaDNEDI=
+
+Name: patch/system/lib/hw/audio.a2dp.default.so.p
+SHA1-Digest-Manifest: iy7Cm5nJwHQsJqEKxQd+VVWTWS8=
+
+Name: patch/system/priv-app/SettingsProvider.odex.p
+SHA1-Digest-Manifest: EZxE0p+xQzsea/2oRcdaXw9tXTk=
+
+Name: patch/system/app/IMEMurasuViet.odex.p
+SHA1-Digest-Manifest: POELSMAbcpG1l3yl15DY/M2HYS0=
+
+Name: patch/system/vendor/lib/egl/libEGL_adreno.so.p
+SHA1-Digest-Manifest: urJd04+mkSMAw5CMBMSVGY7D/1Y=
+
+Name: patch/system/lib/libnfc.so.p
+SHA1-Digest-Manifest: WeGP1G+Hv0gMfcvKQJDV1E3woYY=
+
+Name: patch/system/lib/libHMSGallery_libDualLensEngine.so.p
+SHA1-Digest-Manifest: h5zAuZ2Fyh4jjt9m9l5a50LJjHg=
+
+Name: patch/system/framework/webview/paks/ja.pak.p
+SHA1-Digest-Manifest: 6BfKB3jadsed5Yo0LHzAfl3rz/Q=
+
+Name: system/framework/com.google.widevine.software.drm.jar
+SHA1-Digest-Manifest: lTAqfxtibQ1Q+380+C+1aaonRpA=
+
+Name: patch/system/fonts/DFHEIA5A.ttf.p
+SHA1-Digest-Manifest: hHZLHav7J/sgrCmMnn712b/i2qw=
+
+Name: patch/system/priv-app/HtcLocationService.apk.p
+SHA1-Digest-Manifest: lV1TLMUBEAOnGA5XdqT4+MVaEz8=
+
+Name: system/etc/security/cacerts/b872f2b4.0
+SHA1-Digest-Manifest: KbgCK/+xFQ8+ip7KTrmbd41TA0Y=
+
+Name: patch/system/lib/libHMSGallery_libBokehLibEngine.so.p
+SHA1-Digest-Manifest: CNGvAa72HwTiHhpxprPLQcXOYZk=
+
+Name: patch/system/priv-app/Tag.odex.p
+SHA1-Digest-Manifest: +OQJsqn3+cALQxOKecXEPB0h418=
+
+Name: patch/system/framework/webview/paks/ca.pak.p
+SHA1-Digest-Manifest: PuJRiWZaTgXyVtMgqHXml9qTto8=
+
+Name: patch/system/priv-app/HtcContactWidgets.apk.p
+SHA1-Digest-Manifest: D+wl1a7gqTCWyRXOqabwfkC4Wv4=
+
+Name: system/framework/conscrypt.jar
+SHA1-Digest-Manifest: Qb3NVngnWM4tJ4pgbDvtpL43/4E=
+
+Name: system/customize/clientid/default.prop_HTC__304
+SHA1-Digest-Manifest: PQZiPUIF4EelQ9ofva/2a2OFB2s=
+
+Name: patch/system/lib/modules/scsi_wait_scan.ko.p
+SHA1-Digest-Manifest: Qp44jT8XDk0kEqzq2LzJfNoc8wI=
+
+Name: patch/system/bin/mm-qcamera-app.p
+SHA1-Digest-Manifest: Rxra0Z82v7YznwlqeRhDj+yf8V4=
+
+Name: data/preload/mattingshotandpaste_stickers_26.png
+SHA1-Digest-Manifest: OfcK053H7sL5AsCi1OBVw5oiK4U=
+
+Name: patch/system/framework/webviewchromium.odex.p
+SHA1-Digest-Manifest: upAUFvBAMVC0r47K11RSNZeRl5k=
+
+Name: patch/system/priv-app/Mail.apk.p
+SHA1-Digest-Manifest: I4vV5wTkMcZchUHR9FsAc3QUdXQ=
+
+Name: data/preload/weather_cloudy_night.mp4
+SHA1-Digest-Manifest: y//4pzxB1gR//OxICdvBsJfkQhs=
+
+Name: data/preload/HTC__032.xml
+SHA1-Digest-Manifest: NDm9b/d+72xVPU3mmZqbOc0BhBs=
+
+Name: patch/system/priv-app/HtcFMRadioWidget.apk.p
+SHA1-Digest-Manifest: faNsjkv1ODkTPET0/ZbmF6d6wLM=
+
+Name: system/framework/bouncycastle.jar
+SHA1-Digest-Manifest: U+FMXsPn04fqWcEio9CnLuI+vT8=
+
+Name: patch/system/lib/libhtcqxdm2sd.so.p
+SHA1-Digest-Manifest: bH1QzHq/cpx7yycnncs10XMG95s=
+
+Name: patch/system/priv-app/HtcVideoPlayer.apk.p
+SHA1-Digest-Manifest: uLR9gVN2l1L41+xZtgGUEaUeLRA=
+
+Name: system/customize/clientid/default.prop_HTC__Y13
+SHA1-Digest-Manifest: yqAbHFf4G7Y/maVY87wFy0PT/ok=
+
+Name: system/lib/libebtable_nat.so
+SHA1-Digest-Manifest: MpcEnzvPPtMelPFKIKURftuTP8A=
+
+Name: system/framework/HTCExtension.jar
+SHA1-Digest-Manifest: dzz+qVfBzVpKA0tdXzGhsAlOkms=
+
+Name: patch/system/priv-app/BackupRestoreConfirmation.apk.p
+SHA1-Digest-Manifest: LJz2d4g8fdhYlrEOFGbhIyuQ1EY=
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest-Manifest: yvmRfquwJuB7YRbI+vSFDGCCQTc=
+
+Name: patch/system/priv-app/WifiRouter.odex.p
+SHA1-Digest-Manifest: fN4FZialAJRr1/8eEdAxSKYpRms=
+
+Name: patch/system/app/HtcCupd.apk.p
+SHA1-Digest-Manifest: ealHq/CGc4/osyj2rY5I+Ywt1yw=
+
+Name: patch/system/app/Hangouts.apk.p
+SHA1-Digest-Manifest: J8NNa8RJbqOIsahvAaqesPA61Ik=
+
+Name: patch/system/framework/webview/paks/cs.pak.p
+SHA1-Digest-Manifest: lYRGx4sNmDRA9k/LZG1OjW0KK7s=
+
+Name: patch/system/priv-app/HtcGpsWidget.odex.p
+SHA1-Digest-Manifest: crPFMdLCUpGMKqMakWVRCtXGRTU=
+
+Name: patch/system/lib/modules/msm-buspm-dev.ko.p
+SHA1-Digest-Manifest: r4l2sZslDkG1jGCGde5OVW9retY=
+
+Name: patch/system/bin/mm-jpeg-enc-test-client.p
+SHA1-Digest-Manifest: FQ7Klconjp/o4Yg6usn5okupZEs=
+
+Name: patch/system/lib/libmedia.so.p
+SHA1-Digest-Manifest: ne6rgO4hruoxi577N3V4JdXQjns=
+
+Name: patch/system/priv-app/Twitter.odex.p
+SHA1-Digest-Manifest: XOO9WbJxXGrJbqEU8F8tMuIliik=
+
+Name: patch/system/priv-app/HTCRecommend.odex.p
+SHA1-Digest-Manifest: xJ64xIf0ynL2zgLDuPBUjoaC/y0=
+
+Name: fotaBoot
+SHA1-Digest-Manifest: kCZ5H5n9AIWd2/aQUh5uI3gtU8A=
+
+Name: patch/system/app/IMEXT9Dutch.odex.p
+SHA1-Digest-Manifest: auavRDfkGSCBG5m+2WxN8cWc2hM=
+
+Name: patch/system/priv-app/CalendarProvider.apk.p
+SHA1-Digest-Manifest: Afs0l5KDFXIQmKaz0Tw229NZZHI=
+
+Name: patch/system/framework/mms-common.odex.p
+SHA1-Digest-Manifest: i2TZT6Bnfu1eaXzhP336Hu6yelA=
+
+Name: system/lib/libebtc.so
+SHA1-Digest-Manifest: thbf4oBEVR1tJgXoZYVUgvRoHXc=
+
+Name: patch/system/app/DriveActivator.odex.p
+SHA1-Digest-Manifest: Hs+80fOTUas7KN3TCF40urVNCrk=
+
+Name: data/preload/mattingshotandpaste_stickers_07.png
+SHA1-Digest-Manifest: tAP/YPPlg8MDY3PNaMkEHHkGhhA=
+
+Name: patch/system/priv-app/MediaProvider.odex.p
+SHA1-Digest-Manifest: HyJwerjv5naRxIai8QEfhJs3unk=
+
+Name: patch/system/lib/libpixelflinger.so.p
+SHA1-Digest-Manifest: qncEY5JOxNc/wPQUIXln03C9Z+4=
+
+Name: patch/system/bin/applypatch.p
+SHA1-Digest-Manifest: q4WkE/YF13N1zfnluS+6hyenfJA=
+
+Name: patch/system/lib/libvideoeditorplayer.so.p
+SHA1-Digest-Manifest: 7HiDxy6O2+tR7RsWmCTyDTIE25M=
+
+Name: system/framework/bu.jar
+SHA1-Digest-Manifest: 3GTTWyT8IUkTgCfVaXHHcyof2iw=
+
+Name: data/preload/weather_l_partly_cloud_day.mp4
+SHA1-Digest-Manifest: cOLPhgd5/hW4xVquLodt8ydTkqc=
+
+Name: patch/system/lib/libstopmotion.so.p
+SHA1-Digest-Manifest: kkQjR1MTlBgxe/RxIzCUHs7ihsw=
+
+Name: patch/system/priv-app/HtcNotesProvider.apk.p
+SHA1-Digest-Manifest: 0iPthYLXo2jeN0/rkMNzvceOqIw=
+
+Name: patch/system/lib/libwebp_android.so.p
+SHA1-Digest-Manifest: zJexw0o96EFV0I+GNBVXKItqDpg=
+
+Name: patch/system/framework/framework-res.apk.p
+SHA1-Digest-Manifest: hhtB5XYj3QBNKf8Rb9aLam2q26w=
+
+Name: system/etc/security/cacerts/052e396b.0
+SHA1-Digest-Manifest: Eri4LMJHAzCYcDIPDA6SNojIwt0=
+
+Name: system/lib/libebt_vlan.so
+SHA1-Digest-Manifest: fcDWG1dg7jgIIP9M6ZP9KPBoTiE=
+
+Name: patch/system/priv-app/HtcHotspotWidget.apk.p
+SHA1-Digest-Manifest: 7NkS54l36kJvrp9c6jWDGzv2Ev8=
+
+Name: patch/system/priv-app/FusedLocation.apk.p
+SHA1-Digest-Manifest: aNqWdtaWBxZtTytebhO4OX4+v6c=
+
+Name: system/lib/modules/moc_crypto.ko.sig.3.4.10
+SHA1-Digest-Manifest: mtCiDrM82ZWdWXlNmEV1fwmIZP4=
+
+Name: patch/system/framework/com.android.location.provider.odex.p
+SHA1-Digest-Manifest: 0DCCRngHai65YP1RWX+sAd2vrho=
+
+Name: patch/system/priv-app/ContactsProvider.odex.p
+SHA1-Digest-Manifest: s7UpSCc56DcCCoNWAtf2mTZ5GxQ=
+
+Name: system/lib/libgnmc_id3tag.3.3.3.15.so
+SHA1-Digest-Manifest: I600IQ9gXGNhbzuWdV7YoWZ+q3Q=
+
+Name: patch/system/vendor/lib/libCB.so.p
+SHA1-Digest-Manifest: w7HfStFxbWQNUbWDMA6p+3nsfsI=
+
+Name: patch/system/app/PhaseBeam.odex.p
+SHA1-Digest-Manifest: /0quFjep6zDN0s1p14TjoqkRAUQ=
+
+Name: patch/system/framework/webview/paks/el.pak.p
+SHA1-Digest-Manifest: KTp/h5lrlWd2w0xmQ3n/+omIXys=
+
+Name: patch/system/priv-app/CheckinProvider.apk.p
+SHA1-Digest-Manifest: vmhLylouE9+BVyp7o8fSW2VkpVc=
+
+Name: firmware.zip
+SHA1-Digest-Manifest: aIrFetABDqQL76p/insYFcb6HLo=
+
+Name: patch/system/app/UserDictionaryProvider.odex.p
+SHA1-Digest-Manifest: AxFh39UzZAiOvOceSu49REvoxzg=
+
+Name: patch/system/vendor/lib/egl/libq3dtools_adreno.so.p
+SHA1-Digest-Manifest: Vi6HuWRTipECLCjObKCmfHdI5LE=
+
+Name: patch/system/lib/libvcdecoder_jni.so.p
+SHA1-Digest-Manifest: 1JS90ydWd0lMjX1lkh+5VSj0LJk=
+
+Name: data/preload/weather_l_fog_night.mp4
+SHA1-Digest-Manifest: Bf1ZcMCt56ft54qAHjCqvwSc36g=
+
+Name: patch/system/bin/mm-video-driver-test.p
+SHA1-Digest-Manifest: uovQLvx4WZXr/Q/RbC4XKFeB/4w=
+
+Name: patch/system/lib/libfb_stl_shared.so.p
+SHA1-Digest-Manifest: QpujypS1XjL39VD8AS8imsDgRy4=
+
+Name: patch/system/lib/libcneapiclient.so.p
+SHA1-Digest-Manifest: VvkFyTJZRD0lqoNw58D4hnxSXyM=
+
+Name: patch/system/priv-app/MyDropbox.odex.p
+SHA1-Digest-Manifest: eFpZb5C8/JHBe8dFN/eTQCU3WoI=
+
+Name: data/preload/weather_rain_night.mp4
+SHA1-Digest-Manifest: 5QpNXzYaNm6dtQb79sRQQ0fYom4=
+
+Name: system/customize/clientid/default.prop_HTC__E11
+SHA1-Digest-Manifest: UQoUxVcwxyhHwJCSWgnn1rFbvj8=
+
+Name: patch/system/lib/libbluetooth_jni.so.p
+SHA1-Digest-Manifest: bWosCwAw/LwcmbWDSXwxAdaqZiI=
+
+Name: patch/system/customize/MNS/20205.xml.p
+SHA1-Digest-Manifest: BNdOwH7IKI2+xzYJxl0/k8ZjG0Y=
+
+Name: patch/system/app/UDove.odex.p
+SHA1-Digest-Manifest: kVVXK7/R+Q4JEUYMJIO0eqIGpL8=
+
+Name: patch/system/framework/core.jar.p
+SHA1-Digest-Manifest: aDVq8UfFwnt8rCXSKTr3LA9UhvQ=
+
+Name: data/preload/weather_thunderstorm_day.mp4
+SHA1-Digest-Manifest: kGr8yT+kh3Xc1P+B1yJn7Up5RFM=
+
+Name: patch/system/priv-app/Tips_Help.apk.p
+SHA1-Digest-Manifest: oueHeYV6ISEoGSHaLrlOKCeLU9s=
+
+Name: system/customize/AAInfo.txt
+SHA1-Digest-Manifest: AQIkun4X64K+UHbZViCVRubEkXQ=
+
+Name: patch/system/priv-app/Frisbee.apk.p
+SHA1-Digest-Manifest: cd7VbpqAxU4Qkiv8W4O3CYmi/V8=
+
+Name: data/preload/mattingshotandpaste_stickers_12.png
+SHA1-Digest-Manifest: Fao1ubpt1mH2vmGhA1YXDBF4y8s=
+
+Name: patch/system/priv-app/DeviceManagement.apk.p
+SHA1-Digest-Manifest: 2TtQxRcPU4tcrZ8orG/OU2Ew1sA=
+
+Name: data/preload/weather_clear.mp4
+SHA1-Digest-Manifest: GZBKx4YH9ZD/MVMT0zWzl+MngcU=
+
+Name: patch/system/framework/webview/paks/en-GB.pak.p
+SHA1-Digest-Manifest: f6aNzeU7aDlJe2QUX+nJH05ucAw=
+
+Name: patch/system/app/Dropbox.odex.p
+SHA1-Digest-Manifest: V6dsSWZw0NZ2kv7dJoIzU1+hhdk=
+
+Name: system/lib/libebt_nat.so
+SHA1-Digest-Manifest: el52qpMV9ryk2LxSzoN14ZOQrwY=
+
+Name: patch/system/lib/modules/spidev.ko.p
+SHA1-Digest-Manifest: tvfFnxt2sRrV5vbxmfFDSoMHDEg=
+
+Name: patch/system/lib/libmmcamera_statsproc31.so.p
+SHA1-Digest-Manifest: NPlTLIm95NXtyYun8DmzF3EyWTs=
+
+Name: patch/system/priv-app/SetupWizard.apk.p
+SHA1-Digest-Manifest: NRMN7EP6bAmw4TuS16P6mtQLBsM=
+
+Name: patch/system/lib/libjgcastservice.so.p
+SHA1-Digest-Manifest: XiitFv7w85pXDaZoY4wfudIQ/bI=
+
+Name: data/preload/weather_thunderstorm_night.mp4
+SHA1-Digest-Manifest: E0JKvLp0Fx4uFoJ4DEtb2fFwF/8=
+
+Name: patch/system/app/Media_output.apk.p
+SHA1-Digest-Manifest: IVSdgeea9QuD+K2r1/LWd/XlDlM=
+
+Name: patch/system/app/HtcRingtoneWidget.apk.p
+SHA1-Digest-Manifest: KCZvHPpcr5O+u5Y2v/jR9voMRR8=
+
+Name: patch/system/etc/security/cwcerts.zip.p
+SHA1-Digest-Manifest: A+/hQlEerpRLkaZ8dzTRzOvAYvA=
+
+Name: patch/system/priv-app/GmsCore.apk.p
+SHA1-Digest-Manifest: tNbCUrAcrfedjqkZqnlcgRZKHnI=
+
+Name: patch/system/vendor/lib/libWVStreamControlAPI_L1.so.p
+SHA1-Digest-Manifest: 9B5PG4HSkKKKQ9gk4xbMB0kCZzM=
+
+Name: data/preload/weather_l_rain_day.mp4
+SHA1-Digest-Manifest: UvOW+noF6vNUfYsZuzCwJhk0/wE=
+
+Name: patch/system/priv-app/InputDevices.odex.p
+SHA1-Digest-Manifest: CR8ElFV1zvfyCSL2OmPQH+rXJxM=
+
+Name: patch/system/lib/modules/ecryptfs.ko.p
+SHA1-Digest-Manifest: kf3ZfDo9w2b2N5YocRzKyQxsr7Y=
+
+Name: patch/system/lib/libcameraservice.so.p
+SHA1-Digest-Manifest: sKwYeMpLjy0czXthCNibtVOlNcg=
+
+Name: system/bin/brctl
+SHA1-Digest-Manifest: Q10SS9ZkxJG2rcAqLTAcJ/7v+cg=
+
+Name: patch/system/etc/libpmhwrl.so.p
+SHA1-Digest-Manifest: FsrHSXhrNLRmN11+W6iFfOaD2LM=
+
+Name: patch/system/lib/libutils.so.p
+SHA1-Digest-Manifest: Ap3lvyWyL6PYoZcCOEiKeMsf85M=
+
+Name: patch/system/app/IMEXT9BahasaIndonesia.odex.p
+SHA1-Digest-Manifest: M8kEdX3uWtdtgboGDx8UHY8efUY=
+
+Name: patch/system/app/CIMEXT9.odex.p
+SHA1-Digest-Manifest: ZidWcl7dp8b6pS6faBNp1EbIdpg=
+
+Name: system/etc/security/cacerts/c51c224c.0
+SHA1-Digest-Manifest: lSf1Mw0xiF6NuEbW6B2tKA20UDI=
+
+Name: patch/system/customize/MNS/24007.xml.p
+SHA1-Digest-Manifest: si+YjGpiKy2Asl6FwAvxpRsyZTw=
+
+Name: patch/system/bin/linker.p
+SHA1-Digest-Manifest: DLP2Z2qu5BzTN4Tkm9CPnMz43IY=
+
+Name: patch/system/customize/MNS/20201.xml.p
+SHA1-Digest-Manifest: tp63WXy2t+RH8+qz8OURVOeQ/bo=
+
+Name: patch/system/etc/recovery-resource.dat.p
+SHA1-Digest-Manifest: rhXI2w6KDz4NVGMRhKaJdNJJ1qc=
+
+Name: system/lib/libebt_redirect.so
+SHA1-Digest-Manifest: L6uouLz0bFgzghmFZlFq9bBuUgM=
+
+Name: patch/system/priv-app/HtcSoundRecorder.odex.p
+SHA1-Digest-Manifest: VrgubwtCZa1Ype6PZUuIeWrNPNM=
+
+Name: patch/system/app/YouTube.apk.p
+SHA1-Digest-Manifest: htdpLnfy92GNbNyRzSfCHT3lXSc=
+
+Name: patch/system/app/HtcInternalSettingsProvider.odex.p
+SHA1-Digest-Manifest: kOJW+DQfo84Klu7KI3ENSVcsVVM=
+
+Name: system/framework/monkey.jar
+SHA1-Digest-Manifest: DN7oQQaq9E65YQ4EwyBH/v6NxS0=
+
+Name: patch/system/bin/hcheck.p
+SHA1-Digest-Manifest: gebK3gTU5HqmLEJDpIpGI1krO3o=
+
+Name: system/lib/libexif_lib1_v06.so
+SHA1-Digest-Manifest: t053Uyy0HV82piolKW0LtX2G0cQ=
+
+Name: patch/system/priv-app/Tag.apk.p
+SHA1-Digest-Manifest: JtrLtqfFwm9/g7skfsTDEFC/j6Q=
+
+Name: data/preload/weather_l_partly_cloud_night.mp4
+SHA1-Digest-Manifest: 8QFD3aHvoo+hYq6dC3ELO48/Wk4=
+
+Name: patch/system/app/HtcSyncWidget.apk.p
+SHA1-Digest-Manifest: YBXrAV6h1A9PZvIUYqUqfklRi/U=
+
+Name: patch/system/priv-app/FM_Radio.apk.p
+SHA1-Digest-Manifest: /uGOvVO4rMPxrTcyT/1x/RkxvzM=
+
+Name: patch/system/app/IMEXT9Turkish.odex.p
+SHA1-Digest-Manifest: l+NR/EdASCEr9FdKADfBUPEtfzc=
+
+Name: patch/system/vendor/lib/mediadrm/libwvdrmengine.so.p
+SHA1-Digest-Manifest: hIfcJb7Tsi91SooQqcNpthf+EYc=
+
+Name: patch/system/framework/ext.odex.p
+SHA1-Digest-Manifest: bo5iTxU9ngk6VCxHgeZITe/Jqs4=
+
+Name: patch/system/customize/MNS/20601.xml.p
+SHA1-Digest-Manifest: RbyY0HbOQB22ow03TWIrI/+eqmE=
+
+Name: patch/system/vendor/lib/libsc-a2xx.so.p
+SHA1-Digest-Manifest: KmUkzO/ReYIpsXS8Axz6sFAFtm0=
+
+Name: patch/system/priv-app/VpnDialogs.apk.p
+SHA1-Digest-Manifest: +s/Nx8/wodXsQUbVhapsrbNzjFw=
+
+Name: patch/system/lib/libOmxCore.so.p
+SHA1-Digest-Manifest: IzsGm1NdASV2KKCeMMsHe3xq4L4=
+
+Name: system/framework/aei.jar
+SHA1-Digest-Manifest: KrSe5nenGYEKaSJ6PjrLfPB6FRY=
+
+Name: patch/system/framework/HTCCommonctrl.odex.p
+SHA1-Digest-Manifest: VyhiQLw2jjf7wxGcOsy08dwod8I=
+
+Name: patch/system/priv-app/DownloadProvider.apk.p
+SHA1-Digest-Manifest: GQr0Y5IWlSlJA30bhw/OiShb67k=
+

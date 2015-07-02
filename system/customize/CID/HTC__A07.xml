@@ -1,0 +1,259 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<customization_form>
+  <category name="system">
+    <module name="locale">
+      <function>
+        <set name="single">
+          <item name="total_list">de_AM;de_AZ;de_BY;de_GE;de_KZ;de_RU;en_AM;en_AZ;en_BY;en_GE;en_KZ;en_RU;en_US;es_AM;es_AZ;es_BY;es_GE;es_KZ;es_RU;fr_AM;fr_AZ;fr_BY;fr_GE;fr_KZ;fr_RU;hy_AM;hy_AZ;hy_BY;hy_GE;hy_KZ;hy_RU;it_AM;it_AZ;it_BY;it_GE;it_KZ;it_RU;kk_AM;kk_AZ;kk_BY;kk_GE;kk_KZ;kk_RU;ru_AM;ru_AZ;ru_BY;ru_GE;ru_KZ;ru_RU;tr_AM;tr_AZ;tr_BY;tr_GE;tr_KZ;tr_RU;uk_AM;uk_AZ;uk_BY;uk_GE;uk_KZ;uk_RU;</item>
+          <item type="boolean" name="de_AM">yes</item>
+          <item type="boolean" name="de_AZ">yes</item>
+          <item type="boolean" name="de_BY">yes</item>
+          <item type="boolean" name="de_GE">yes</item>
+          <item type="boolean" name="de_KZ">yes</item>
+          <item type="boolean" name="de_RU">yes</item>
+          <item type="boolean" name="en_AM">yes</item>
+          <item type="boolean" name="en_AZ">yes</item>
+          <item type="boolean" name="en_BY">yes</item>
+          <item type="boolean" name="en_GE">yes</item>
+          <item type="boolean" name="en_KZ">yes</item>
+          <item type="boolean" name="en_RU">yes</item>
+          <item type="boolean" name="en_US">yes</item>
+          <item type="boolean" name="es_AM">yes</item>
+          <item type="boolean" name="es_AZ">yes</item>
+          <item type="boolean" name="es_BY">yes</item>
+          <item type="boolean" name="es_GE">yes</item>
+          <item type="boolean" name="es_KZ">yes</item>
+          <item type="boolean" name="es_RU">yes</item>
+          <item type="boolean" name="fr_AM">yes</item>
+          <item type="boolean" name="fr_AZ">yes</item>
+          <item type="boolean" name="fr_BY">yes</item>
+          <item type="boolean" name="fr_GE">yes</item>
+          <item type="boolean" name="fr_KZ">yes</item>
+          <item type="boolean" name="fr_RU">yes</item>
+          <item type="boolean" name="hy_AM">yes</item>
+          <item type="boolean" name="hy_AZ">yes</item>
+          <item type="boolean" name="hy_BY">yes</item>
+          <item type="boolean" name="hy_GE">yes</item>
+          <item type="boolean" name="hy_KZ">yes</item>
+          <item type="boolean" name="hy_RU">yes</item>
+          <item type="boolean" name="it_AM">yes</item>
+          <item type="boolean" name="it_AZ">yes</item>
+          <item type="boolean" name="it_BY">yes</item>
+          <item type="boolean" name="it_GE">yes</item>
+          <item type="boolean" name="it_KZ">yes</item>
+          <item type="boolean" name="it_RU">yes</item>
+          <item type="boolean" name="kk_AM">yes</item>
+          <item type="boolean" name="kk_AZ">yes</item>
+          <item type="boolean" name="kk_BY">yes</item>
+          <item type="boolean" name="kk_GE">yes</item>
+          <item type="boolean" name="kk_KZ">yes</item>
+          <item type="boolean" name="kk_RU">yes</item>
+          <item type="boolean" name="ru_AM">yes</item>
+          <item type="boolean" name="ru_AZ">yes</item>
+          <item type="boolean" name="ru_BY">yes</item>
+          <item type="boolean" name="ru_GE">yes</item>
+          <item type="boolean" name="ru_KZ">yes</item>
+          <item type="boolean" name="ru_RU">yes</item>
+          <item type="boolean" name="tr_AM">yes</item>
+          <item type="boolean" name="tr_AZ">yes</item>
+          <item type="boolean" name="tr_BY">yes</item>
+          <item type="boolean" name="tr_GE">yes</item>
+          <item type="boolean" name="tr_KZ">yes</item>
+          <item type="boolean" name="tr_RU">yes</item>
+          <item type="boolean" name="uk_AM">yes</item>
+          <item type="boolean" name="uk_AZ">yes</item>
+          <item type="boolean" name="uk_BY">yes</item>
+          <item type="boolean" name="uk_GE">yes</item>
+          <item type="boolean" name="uk_KZ">yes</item>
+          <item type="boolean" name="uk_RU">yes</item>
+        </set>
+      </function>
+    </module>
+    <module name="deviceData">
+      <function>
+        <set name="single">
+          <item name="device_name">HTC One max</item>
+        </set>
+      </function>
+    </module>
+    <module name="deviceData1">
+      <function>
+        <set name="single">
+          <item name="sw_number">NA</item>
+        </set>
+      </function>
+    </module>
+    <module name="Settings">
+      <function name="customized_value">
+        <set name="single">
+          <item name="single_usb_tethering">false</item>
+        </set>
+      </function>
+    </module>
+    <module name="defaultTime1224">
+      <function>
+        <set name="single">
+          <item name="default">24</item>
+        </set>
+      </function>
+    </module>
+  </category>
+  <category name="application">
+    <module name="Crash_Report">
+      <function name="setting">
+        <set name="single">
+          <item name="turn_off_report" type="boolean">no</item>
+          <item name="turn_off_application_log" type="boolean">no</item>
+        </set>
+      </function>
+    </module>
+    <module name="HtcPhone">
+      <function name="specificDialNumbers">
+        <set name="single">
+          <item name="numbers">01,02,03,04</item>
+        </set>
+      </function>
+    </module>
+    <module name="FOTA">
+      <function name="settings">
+        <set name="single">
+          <item name="Default_Download_Wifi" type="boolean">yes</item>
+        </set>
+      </function>
+    </module>
+    <module name="OOBE">
+      <function name="Step_Config">
+        <set name="single">
+          <item name="Data_Connection" type="boolean">yes</item>
+        </set>
+      </function>
+      <function name="Data_Connection_Config">
+        <set name="single">
+          <item name="Show_Mobile" type="boolean">yes</item>
+        </set>
+      </function>
+      <function name="Mobile_Data_Config">
+        <set name="single">
+          <item name="Default" type="boolean">yes</item>
+          <item name="PromptWarningDialog" type="boolean">yes</item>
+        </set>
+      </function>
+      <!--%%File%%-->
+    </module>
+  </category>
+  <BootConfiguration>
+    <BootAnimation animation="/system/customize/resource/hTC_bootup_one.zip" audio="/system/customize/resource/HTC_Sense5_Boot.mp3" />
+  </BootConfiguration>
+  <ShutdownConfiguration>
+    <ShutdownAnimation image_png="/system/customize/resource/hTC_downanimation.zip" image="" fps="10" />
+  </ShutdownConfiguration>
+  <category name="SettingsProvider">
+    <module name="res">
+      <function name="values">
+        <set name="single">
+          <item name="def_screen_off_timeout">-2</item>
+          <item name="def_2g_on">2</item>
+        </set>
+      </function>
+    </module>
+  </category>
+  <category name="Settings">
+    <module name="properties">
+      <function>
+        <set name="single">
+          <item name="support_3lm_ui">false</item>
+          <item name="support_special_encryption">true</item>
+        </set>
+      </function>
+      <function>
+        <set name="single">
+          <item name="market_name">HTC One max</item>
+        </set>
+      </function>
+    </module>
+    <module name="list">
+      <function name="hide_application_list">
+        <set name="single">
+          <item name="0">com.zoodles.kidmode</item>
+          <item name="1">com.zoodles.kidmode</item>
+        </set>
+      </function>
+    </module>
+  </category>
+  <category name="AutomotiveHome">
+    <module name="setting">
+      <function>
+        <set name="single">
+          <item name="default_Location">Google Maps Navigation</item>
+        </set>
+      </function>
+    </module>
+  </category>
+  <category name="AudioService">
+    <module name="res">
+      <function name="values">
+        <set name="single">
+          <item name="enable_listen_notify">true</item>
+        </set>
+      </function>
+    </module>
+  </category>
+  <category name="ACC">
+    <module name="Settings-Wireless_+_network-USB_tethering_">
+      <function name="settings">
+        <set>
+          <item name="Single_USB_tethering" type="boolean">false</item>
+        </set>
+      </function>
+    </module>
+    <module name="Android_Core_Framework">
+      <function name="settings">
+        <set>
+          <item name="support_ep_url" type="boolean">false</item>
+        </set>
+      </function>
+    </module>
+    <module name="Phone">
+      <function name="settings">
+        <set>
+          <item name="auto_answer_on_def" type="boolean">true</item>
+        </set>
+      </function>
+    </module>
+    <module name="Nationalroaming">
+      <function name="settings">
+        <set>
+          <item name="allow_national_roaming" type="boolean">true</item>
+        </set>
+        <set type="string-array" name="national_roaming_mccmnc">
+          <item>42507</item>
+          <item>21902</item>
+          <item>26006:26001.26002.26003</item>
+          <item>23420</item>
+          <item>22299</item>
+          <item>24002</item>
+          <item>23210</item>
+          <item>23205</item>
+          <item>23806</item>
+          <item>23430</item>
+          <item>23408</item>
+          <item>27205</item>
+        </set>
+        <set type="string-array" name="nationalRoamingUiSupportList">
+          <item>42507:C:1:0</item>
+          <item>21902:C:1:0</item>
+          <item>26006:D:1:0</item>
+          <item>23420:D:0:0</item>
+          <item>22299:D:0:0</item>
+          <item>24002:D:0:0</item>
+          <item>23210:D:2:0</item>
+          <item>23205:D:2:0</item>
+          <item>23806:D:0:0</item>
+          <item>23430:C:1:0</item>
+          <item>23408:C:1:0</item>
+          <item>27205:C:1:0</item>
+        </set>
+      </function>
+    </module>
+  </category>
+</customization_form>

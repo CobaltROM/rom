@@ -1,0 +1,6 @@
+ro.ril.oem.ecclist=999,112,911
+ro.ril.enable.dtm=1
+ro.ril.enable.gea3=1
+ro.ril.air.enabled=0
+ro.ril.gsm.to.lte.blind.redir=0
+ro.phone.min_match=8

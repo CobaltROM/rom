@@ -1,0 +1,8 @@
+post-android-version=4.4.3
+post-build=htc/htc_europe/m7:4.4.3/KTU84L/366813.5:user/release-keys
+post-taskid=386802
+post-timestamp=1406544706
+pre-android-version=4.4.2
+pre-build=htc/htc_europe/m7:4.4.2/KOT49H/334166.10:user/release-keys
+pre-device=m7
+pre-taskid=372402

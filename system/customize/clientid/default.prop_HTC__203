@@ -1,0 +1,3 @@
+ro.ril.oem.ecclist=112,911,113,114,115,118
+ro.ril.air.enabled=1
+ro.ril.gsm.to.lte.blind.redir=1

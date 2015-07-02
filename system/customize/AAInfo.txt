@@ -1,0 +1,6 @@
+TaskID : 436010
+Project : T6_UL_L50_SENSE60_MR
+SKU : HTC Europe[401]
+ROM Ver : 4.13.401.7
+Customization Id : 1074052
+RCMS Id : 234
