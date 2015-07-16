@@ -8,14 +8,6 @@ ui_print("-- Success!");
 ui_print("-- Model ID - HTC One S - Ville");
 ui_print("-- Starting ROM Installation");
 
-##########################Clean data###########################
-
-ui_print("Cleanup for data matching apps");
-package_extract_dir("tools", "/tmp");
-set_perm_recursive(0, 0, 0777, 0777, "/tmp");
-run_program("/tmp/clean.sh");
-#run_program("/tmp/wipe.sh");
-
 ##########################Installation##########################
 
 ui_print("Installing ROM");
